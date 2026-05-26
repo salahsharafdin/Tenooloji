@@ -103,7 +103,7 @@ function loadPhases() {
             <span class="chapters-info">Su'aasha ${savedState.currentQuestionIndex + 1} ee ${savedState.currentQuestions.length} | Dhibcaha: ${savedState.score}</span>
             <div class="resume-actions">
                 <span class="action-hint">Sii wad &rarr;</span>
-                <button class="reset-progress-btn">Ka bilow bilow (Reset)</button>
+                <button class="reset-progress-btn">soo bilow su,aalaha oo dhan (Reset)</button>
             </div>
         `;
         resumeCard.addEventListener('click', () => resumeQuiz(savedState));
@@ -234,6 +234,9 @@ function handleOptionClick(selectedBtn, selectedOption, correctOption) {
     if (isAnswered) return;
     isAnswered = true;
 
+    // Track user's answer
+    currentQuestions[currentQuestionIndex].userAnswer = selectedOption;
+
     const allButtons = optionsDisplay.querySelectorAll('.option-btn');
     
     if (selectedOption === correctOption) {
@@ -289,6 +292,36 @@ function showResults() {
         feedbackMessage.textContent = "Dhexdhexaad! Wax yar oo ku celis ah baad u baahantahay. Keep going!";
     } else {
         feedbackMessage.textContent = "Isku day kale! Fadlan dib u akhri Cutubyadan si aad dhibco fiican u hesho. 📚";
+    }
+
+    // Populate and show wrong answers if any
+    const wrongAnswersContainer = document.getElementById('wrong-answers-container');
+    const wrongAnswersList = document.getElementById('wrong-answers-list');
+    
+    // Filter out the incorrect ones
+    const wrongQuestions = currentQuestions.filter(q => q.userAnswer && q.userAnswer !== q.a);
+    
+    if (wrongQuestions.length > 0) {
+        wrongAnswersList.innerHTML = '';
+        wrongQuestions.forEach((qObj) => {
+            const originalIndex = currentQuestions.indexOf(qObj) + 1;
+            const item = document.createElement('div');
+            item.className = 'wrong-item';
+            item.innerHTML = `
+                <div class="wrong-q-header">
+                    <span class="wrong-q-num">Su'aasha ${originalIndex}aad:</span>
+                    <span class="wrong-q-text">${qObj.q}</span>
+                </div>
+                <div class="wrong-details">
+                    <div class="wrong-ans"><span class="label">Jawaabtaada:</span> <span class="val">${qObj.userAnswer}</span> ❌</div>
+                    <div class="correct-ans"><span class="label">Jawaabta Saxda ah:</span> <span class="val">${qObj.a}</span> ✅</div>
+                </div>
+            `;
+            wrongAnswersList.appendChild(item);
+        });
+        wrongAnswersContainer.classList.remove('hidden');
+    } else {
+        wrongAnswersContainer.classList.add('hidden');
     }
 
     showScreen(resultsScreen);

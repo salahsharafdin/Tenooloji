@@ -73,6 +73,7 @@ header {
     font-weight: 800;
     background: linear-gradient(135deg, #60a5fa 0%, #34d399 100%);
     -webkit-background-clip: text;
+    background-clip: text;
     -webkit-text-fill-color: transparent;
     letter-spacing: 1px;
 }
@@ -541,6 +542,119 @@ main {
     color: #fff;
     border-color: var(--error);
     box-shadow: 0 0 10px rgba(239, 68, 68, 0.2);
+}
+
+/* Wrong Answers (Incorrect Questions) Styling */
+.wrong-answers-container {
+    width: 100%;
+    max-width: 550px;
+    background: rgba(255, 255, 255, 0.02);
+    border: 1px solid rgba(255, 255, 255, 0.06);
+    border-radius: 18px;
+    padding: 1.25rem;
+    text-align: left;
+    margin: 0.5rem 0 1rem 0;
+    box-sizing: border-box;
+    animation: fadeIn 0.5s ease;
+}
+
+.wrong-answers-title {
+    font-size: 1.15rem;
+    font-weight: 600;
+    color: #f87171;
+    margin-bottom: 0.75rem;
+    border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+    padding-bottom: 0.5rem;
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+}
+
+.wrong-answers-list {
+    max-height: 280px;
+    overflow-y: auto;
+    display: flex;
+    flex-direction: column;
+    gap: 0.85rem;
+    padding-right: 0.5rem;
+}
+
+/* Custom Scrollbar for list */
+.wrong-answers-list::-webkit-scrollbar {
+    width: 6px;
+}
+.wrong-answers-list::-webkit-scrollbar-track {
+    background: transparent;
+}
+.wrong-answers-list::-webkit-scrollbar-thumb {
+    background: rgba(255, 255, 255, 0.12);
+    border-radius: 10px;
+}
+.wrong-answers-list::-webkit-scrollbar-thumb:hover {
+    background: rgba(255, 255, 255, 0.25);
+}
+
+.wrong-item {
+    background: rgba(0, 0, 0, 0.2);
+    border: 1px solid rgba(255, 255, 255, 0.03);
+    border-left: 4px solid #f87171;
+    border-radius: 12px;
+    padding: 0.95rem;
+    display: flex;
+    flex-direction: column;
+    gap: 0.6rem;
+}
+
+.wrong-q-header {
+    display: flex;
+    gap: 0.4rem;
+    align-items: flex-start;
+}
+
+.wrong-q-num {
+    font-weight: 700;
+    color: #f87171;
+    font-size: 0.9rem;
+    white-space: nowrap;
+}
+
+.wrong-q-text {
+    font-weight: 600;
+    color: var(--text-primary);
+    font-size: 0.95rem;
+    line-height: 1.45;
+}
+
+.wrong-details {
+    display: flex;
+    flex-direction: column;
+    gap: 0.35rem;
+    padding-left: 0.65rem;
+    border-left: 1px dashed rgba(255, 255, 255, 0.12);
+    margin-left: 0.2rem;
+}
+
+.wrong-ans, .correct-ans {
+    font-size: 0.85rem;
+    display: flex;
+    align-items: center;
+    gap: 0.4rem;
+    flex-wrap: wrap;
+}
+
+.wrong-ans .label, .correct-ans .label {
+    color: var(--text-secondary);
+    font-weight: 400;
+}
+
+.wrong-ans .val {
+    color: #f87171;
+    font-weight: 600;
+}
+
+.correct-ans .val {
+    color: #34d399;
+    font-weight: 600;
 }
 
 /* Footer Styling */
