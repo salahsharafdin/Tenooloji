@@ -1,0 +1,1807 @@
+{
+  "1": {
+    "title": "# Cutubka 1aad : Waxbarashada caafimaadka",
+    "questions": [
+      {
+        "num": 1,
+        "q": "Waa maxay cudurada la is qaadsiiyo ?",
+        "a": "waa cudur kasto oo kasoo gudba qof qaba una gudbi kara qof aan qabin."
+      },
+      {
+        "num": 2,
+        "q": "Waa maxay soore ?",
+        "a": "Soore waa martigaliyaha cudurka"
+      },
+      {
+        "num": 3,
+        "q": "Sheeg siyaabaha lagu kala Qaado Cudurka ?",
+        "a": "Hawada , Biyaha , Cuntada , Galmada , iyo Cayayaanka"
+      },
+      {
+        "num": 4,
+        "q": "Maxaa kamid ah cudurada ku faafa hawada ?",
+        "a": "Hargabka , Boronkiitada , iyo Tiibishada"
+      },
+      {
+        "num": 5,
+        "q": "Sheeg cudurada lagu kala qaado galmada ?",
+        "a": "Waraabowga (isfiilitada) , Jabtada , iyo Aydhiska"
+      },
+      {
+        "num": 6,
+        "q": "Sidee lagu kala qaadaa tiifowga iyo daacuunka ?",
+        "a": "Biyaha iyo Cuntada wasakhaysan."
+      },
+      {
+        "num": 7,
+        "q": "Waa Maxay Duumo (Malaariyo) ?",
+        "a": "Waa cudur halis ah waxa ayna kamid tahay xanuunada faafa ee la isqaadsiiyo"
+      },
+      {
+        "num": 8,
+        "q": "Yaa keena cudurka duumada ?",
+        "a": "Waxaa keena Cayayaanka."
+      },
+      {
+        "num": 9,
+        "q": "Waa maxay deris kunoole ?",
+        "a": "Waa noole ku dul nool noole kale"
+      },
+      {
+        "num": 10,
+        "q": "waa maxay fansidar ?",
+        "a": "Waa daawada ka hortaga cudurka duumada"
+      },
+      {
+        "num": 11,
+        "q": "Magacoow jeermiga sababa cudurka duumada ?",
+        "a": "PLASMODIUM (BALAASMOODIYAM)"
+      },
+      {
+        "num": 12,
+        "q": "Sheeg noocyada balaasmoodiyam?",
+        "a": "Balaasmoodiyam falsibaram , Balaasmoodiyam fiifakis , Balaasmoodiyam ofeli , Balaasmoodiyam malaariyo"
+      },
+      {
+        "num": 13,
+        "q": "Yaa faafiya cudurka duumada ?",
+        "a": "Kaneecada dhediga ee loo yaqaano ANOPHELES (ANOOFALIS)"
+      },
+      {
+        "num": 14,
+        "q": "Xagee ayay weerartaa duumada ?",
+        "a": "Unugyada beerka iyo unugyada cascas ee dhiiga"
+      },
+      {
+        "num": 15,
+        "q": "Sheeg calaamadaha lagu garto cudurka duumada ?",
+        "a": "Qandho , beer yarada oo bararta , gariir , matag , afka oo qaraar noqda , murqo xanuun , dhiig yaraan daal badan , tabar darro iyo dhidid"
+      },
+      {
+        "num": 16,
+        "q": "Sheeg dadka unugul cudurka duumdada ?",
+        "a": "Carruurta da’dooda ka yartahay 5 sano iyo haweenka uurka leh"
+      },
+      {
+        "num": 17,
+        "q": "Xagee ayey kunooshahay anoofalis ?",
+        "a": "Meelaha qabatinta musqulaha iyo wabiyada"
+      },
+      {
+        "num": 18,
+        "q": "Sheeg siyaabaha ay ku gudubto duumada ?",
+        "a": "B) Qof qaba duumada oo dhiig laga shubo laguna shubo mid ka fayow cudurka T) Xubnaha oo la’iskugu deeqo sida beerka iwm Cirbadaha oo lala wadaago qofka qaba cudurka X) Hooyada uurka leh hadey qabto waxey ugudbin kartaa ilmaha uur jiifka"
+      },
+      {
+        "num": 19,
+        "q": "Sheeg shan kamid ah siyaabaha loogu hortagi karo cudurka duumada ?",
+        "a": "In musqulaha kolooriin lagu shubo , in labuufiyo guryaha , in maro kaneeco la xerto , in daawada fansidar loogu hortago , iyo in labuufiyo dhamaan xaafadaha magaalada"
+      },
+      {
+        "num": 20,
+        "q": "Waa maxay galmo ?",
+        "a": "Waa isku taga labka iyo dhediga"
+      },
+      {
+        "num": 21,
+        "q": "Maxaa sababa cudurka waraabowga ( Isfiilatada) ?",
+        "a": "Waxaa sababta bakteeriyada (Tarebanema Balidam)"
+      },
+      {
+        "num": 22,
+        "q": "Sheeg heerarka uu maro waraabowga ( Isfiilatada) ?",
+        "a": "Waxa uu maraa 3 heer"
+      },
+      {
+        "num": 23,
+        "q": "Sheeg calaamadaha uu ku bilaawdo cudurka waraabowga heerkiis 1aad ?",
+        "a": "Boogo yar aan xanuun laheyn oo kasoo baxa agagaarka xubnaha taranka , afka iyo malawadka ,  heerka 1aad waxuu qataa 3 ilaa 8 (Todobaad) isbuuc"
+      },
+      {
+        "num": 24,
+        "q": "Xagee ayay nabarada kasoo baxaan heerka 2aad ee cudurka waraabowga ?",
+        "a": "Waxey kasoo baxaan calaacasha iyo cagta , heerkaan waxa uu qaadan karaa 2 ilaa 12 (Todobaad) isbuuc"
+      },
+      {
+        "num": 25,
+        "q": "Sheeg calaamadaha waraabowga lagu garto heerka 2aad ?",
+        "a": "Qandho , murqo xanuun , cuna xanuun , tabardaro , iyo daal"
+      },
+      {
+        "num": 26,
+        "q": "Maxaa lagu daweeyaa cudurka waraabowga ?",
+        "a": "ANTIBIOTICS ( ANTIBAAYOOTIKIS)"
+      },
+      {
+        "num": 27,
+        "q": "Xagee ayuu ku dhacaa cudurka waraabowga heerk   a 3aad ?",
+        "a": "Wadnaha , xididada jirka , maskaxda , beerka , lafaha iyo kalagoysyada"
+      },
+      {
+        "num": 28,
+        "q": "Muxuu keenaa cudurka waraabowga heerkiis 3aad ?",
+        "a": "Naafanimo , dhimasho iyo waali"
+      },
+      {
+        "num": 29,
+        "q": "Sidee lagu xakameynayaa cudurka waraabowga ?",
+        "a": "In laga fogaado sinada"
+      },
+      {
+        "num": 30,
+        "q": "Waa maxay jabto ?",
+        "a": "Jabto waa caabuq lagu kala qaado galmada"
+      },
+      {
+        "num": 31,
+        "q": "Maxaa loo yaqaanaa Bakteeriyada sababa jabtada ?",
+        "a": "Bakteeriyada neyseeriya gonoriya"
+      },
+      {
+        "num": 32,
+        "q": "Xagee ayey jabtada kaga dhacdaa raga ?",
+        "a": "Waxey kaga dhacdaa kaadi mareenka"
+      },
+      {
+        "num": 33,
+        "q": "Xagee ayey jabtada kaga dhacdaa dumarka ?",
+        "a": "Waxa ay kaga dhacdaa qeybta hore ee ilmo galeenka iyo marinka kaadida"
+      },
+      {
+        "num": 34,
+        "q": "Sheeg halka ay saameyso cudurka jabtada ?",
+        "a": "Waxa ay saameysaa malawadka , futada , cunaha iyo miskaha"
+      },
+      {
+        "num": 35,
+        "q": "Maxay sababi kartaa jabtada hadii aan laga daaweynin bukaanka ?",
+        "a": "Waxey keeni kartaa xaalad caafimaad daro aad halis u ah"
+      },
+      {
+        "num": 36,
+        "q": "Sheeg shan kamid ah astaamaha kamuuqda raga jabtada qaba ?",
+        "a": "Kaadida obadata , Cunaha oo xanuuna , Barar ama xanuun kuyimaada xaniinyaha ama qaska , Xanuun ama kaado ida oo gubta , Kalagoysyada xanuuna barara oo casaada"
+      },
+      {
+        "num": 37,
+        "q": "Sheeg shan kamid ah astaamaha kamuuqda dumarka jabtada qaba ?",
+        "a": "Qandho , madhalaysnimo , cunaha oo xanuuna , dhiig yimaada xiliga caadada kahor , kaadida oo badata"
+      },
+      {
+        "num": 38,
+        "q": "Immisa maalmood ayaa lagu ogaan karaa jabtada ?",
+        "a": "Waxaa lagu ogaan karaa ugu yaraan 14 maalmood"
+      },
+      {
+        "num": 39,
+        "q": "Maxaa lagu daaweeyaa jabtada ?",
+        "a": "Waxaa lagu daaweeyaa jeermis dilayaasha ( ANTIBIOTICS)"
+      },
+      {
+        "num": 40,
+        "q": "Sidee lagu xakameyn karaa jabtada ?",
+        "a": "In laga fogaado sinada"
+      },
+      {
+        "num": 41,
+        "q": "Waa maxay aydhis ?",
+        "a": "Aydhis waa cudur dilaa ah"
+      },
+      {
+        "num": 42,
+        "q": "Maxaa sababa aydhiska ?",
+        "a": "Waxaa sababa fayraska lagu magacaabo (HIV)"
+      },
+      {
+        "num": 43,
+        "q": "Maxaa laga soo gaabiyay ereyga HIV ?",
+        "a": "Human immune deficiency virus"
+      },
+      {
+        "num": 44,
+        "q": "Waa maxay micnaha erayga HIV ?",
+        "a": "Waa fayrus difaaca aadamiga yareeya"
+      },
+      {
+        "num": 45,
+        "q": "Maxaa laga asoo gabiyey erayga AIDS ?",
+        "a": "Acquired immune deficiency syndrome"
+      },
+      {
+        "num": 46,
+        "q": "Waa maxay micnaha erayga AIDS ?",
+        "a": "Waa caabuqa difaaca aadamiga yareeya."
+      },
+      {
+        "num": 47,
+        "q": "Sheeg siyaabaha lagu kala qaado aydhiska ?",
+        "a": " Hooyada qabta cudurka aydhiska waxey ugudbin kartaa ilmaha uurka kijira iyo xiliga ay nuujinayso .  Hadii dhiig qof aydhis qawo lagu shubo qof caafimaad qabo fayraska wuxuu ugudbi karaa qofka caafimaadka qabay .  In xubno la iskugu deeqo .  Cirbad uu isticmaaley qof aydhis qaba"
+      },
+      {
+        "num": 48,
+        "q": "Sheeg shan kamid ah astaamaha aydhiska ?",
+        "a": "Caabuq dhuunta ah , Murqaha oo xanuuna , Qufac qalalan , Shuban mudo dheer socda , Tabardaro"
+      },
+      {
+        "num": 49,
+        "q": "Sidee lagu xakameyn karaa aydhiska ?",
+        "a": "B) In laga fogaado galmada xaaraanta T) In aan la,isticmaalin cirbadaha iyo caagadaha dadka kale isticmaaleen In aa la isla isticmaalin qalabka lagu xiirto kuwa loo isticmaalo Dhalmada , Ilkaha , Cidiyo jarka X) In lahubiyo dhiiga lagu shubaayo bukaanka"
+      },
+      {
+        "num": 50,
+        "q": "Sheeg magaca daawada loo adeegsado aydhiska ?",
+        "a": "Aydhiska daawo malahan"
+      },
+      {
+        "num": 51,
+        "q": "Maxaa loo adeegsadaa daawada ?",
+        "a": "Waxaa loo adeegsadaa in lagu daaweeyo cudurada"
+      },
+      {
+        "num": 52,
+        "q": "Maxay daawadu kabadashaa jirka ?",
+        "a": "Waxay kabadashaa sida uu jirka ushaqaynaayo"
+      },
+      {
+        "num": 53,
+        "q": "Maxay daawadu uleedahay jirka ?",
+        "a": "Waxtar iyo waxyeelo"
+      },
+      {
+        "num": 54,
+        "q": "Waa maxay talo bixinta dhakhtarka ?",
+        "a": "Waa qoraal tilmaamaya sida loo adeegsado daawada"
+      },
+      {
+        "num": 55,
+        "q": "Maxuu tilmaamayaa qoraalka dhakhtarka ?",
+        "a": "Wuxuu tilmaamayaa xadiga daawad a laga qaadanayo iyo mudada uu adeegsanaayo"
+      },
+      {
+        "num": 56,
+        "q": "Goormee ay daawadu waxyeelaysaa jirka ?",
+        "a": "Marka si qaldan loo adeegsado"
+      },
+      {
+        "num": 57,
+        "q": "Sheeg sadex kamid ah daawooyinka maskaxda waxyeeleeya ?",
+        "a": "Daawooyinka xanuunka suuliya , Daawooyinka keena saqrada , Daawooyinka dajiyayaasha."
+      }
+    ]
+  },
+  "2": {
+    "title": "# Cutubka 2aad : Biyaha",
+    "questions": [
+      {
+        "num": 1,
+        "q": "Sheeg qaybaha uu dhulka ka koobanyahay ?",
+        "a": "waxa uu ka koobanyahay biyo iyo barri."
+      },
+      {
+        "num": 2,
+        "q": "Immisa biyo ah dhulka ?",
+        "a": "70%"
+      },
+      {
+        "num": 3,
+        "q": "Immisa barri ah dhulka  ?",
+        "a": "30%"
+      },
+      {
+        "num": 4,
+        "q": "Sheeg boqoleyda biyaha dhanaan ee dhulka ?",
+        "a": "97%"
+      },
+      {
+        "num": 5,
+        "q": "Sheeg boqoleyda biyaha macaan ee dhulka  ?",
+        "a": "1%"
+      },
+      {
+        "num": 6,
+        "q": "Wan maxay ilaalinta biyaha ?",
+        "a": "Ilaalinta biyaha waa beeqaaminta biyaha."
+      },
+      {
+        "num": 7,
+        "q": "Waa maxay waraab dhibciska ?",
+        "a": "Waa buufinta biyaha."
+      },
+      {
+        "num": 8,
+        "q": "Waa maxay qabashada biyaha ?",
+        "a": "waa keydinta biyaha."
+      },
+      {
+        "num": 9,
+        "q": "Xagee lagu keydiyaa biyaha ?",
+        "a": "war iyo balli."
+      },
+      {
+        "num": 10,
+        "q": "sheeg noocyada waraabka ?",
+        "a": "waa laba nooc oo kala ah : waraab dhibcis iyo waraab daad."
+      },
+      {
+        "num": 11,
+        "q": "Xilligee ugu wanaagsan in la waraabiyo beeraha?",
+        "a": "Subaxdii iyo habeenkii ama marka uu qabowga jiro."
+      },
+      {
+        "num": 12,
+        "q": "Waa maxay dikhowga biyaha ?",
+        "a": "waa wasaqeynta biyaha."
+      },
+      {
+        "num": 13,
+        "q": "Sidee lagu ilaalin karaa biyaha lagu isticmaalo guryaha ?",
+        "a": "in la xero tubooyinka marka la isticmaalo."
+      },
+      {
+        "num": 14,
+        "q": "Waa maxay uumi bax ?",
+        "a": "Waa isbedel tartiib ah ee hoor loogu bedelo hawo ama neef."
+      },
+      {
+        "num": 15,
+        "q": "Waa maxay xareedeyn ?",
+        "a": "waa nadiifinta biyaha."
+      },
+      {
+        "num": 16,
+        "q": "Sheeg sida loogu soo saari karo cusbo biyaha badda ?",
+        "a": "habka uumi baxa iyo habka karkarinta biyaha."
+      },
+      {
+        "num": 17,
+        "q": "Immisa cusbo ah ayaa ku jirto halkii liitar oo biyaha badda ah ?",
+        "a": "494 garaam"
+      },
+      {
+        "num": 18,
+        "q": "Maxaa la samenayaa hadii la rabo si degdeg ah cusbo in loogu soo saaro biyaha badda?",
+        "a": "Waxaa la adeegsanaa habka karkarinta."
+      },
+      {
+        "num": 19,
+        "q": "Sheeg goobaha aadka loogu isticmaalo biyaha ?",
+        "a": "Guryaha , beeraha iyo warshadaha"
+      },
+      {
+        "num": 20,
+        "q": "Maxaa lagu sameyaa biyaha guryaha lagu isticmaalo ?",
+        "a": "waxaa loo adeegsadaa cunto Karin , cabid , qubeys , dhaqida iyo waraabinta beeraha"
+      },
+      {
+        "num": 21,
+        "q": "Maxaa lagu sameyaa biyaha laga isticmaalo beeraha ?",
+        "a": "waraabinta dalaga beeraha , dhaqida miraha iyo qasida suntan cayayaanta."
+      },
+      {
+        "num": 22,
+        "q": "Sheeg warshadaha aadka u isticmaala biyaha ?",
+        "a": "Kuwa soo saaro warqadaha , birta , kiimikada , iyo kuwa kale."
+      }
+    ]
+  },
+  "3": {
+    "title": "# Cutubka 3aad : Habdhiska taranka",
+    "questions": [
+      {
+        "num": 1,
+        "q": "Waa maxay naasley ?",
+        "a": "Waa xayawaan kasta oo laf dhabarrey ah oo dhiig kulul leh dhadigoodna leh naaso soo saaro caano"
+      },
+      {
+        "num": 2,
+        "q": "Sheeg tusaale kamid ah naasleyda ?",
+        "a": "Lo’da , ariga , geela , libaaxa"
+      },
+      {
+        "num": 3,
+        "q": "Waa maxay taran ?",
+        "a": "Taranku waa astaan ka mid ah astaamaha noolaha"
+      },
+      {
+        "num": 4,
+        "q": "Waa maxay feromoon ?",
+        "a": "Feramoon waa fariin side kiimikaaleed oo laga soo deeyo qanjirka jirka"
+      },
+      {
+        "num": 5,
+        "q": "Waa maxay bacrimin ?",
+        "a": "Bacrimin waa marka isu galmooodaan labka iyo dheddiga oo ay midoobaan shahwada iyo ugxaanta"
+      },
+      {
+        "num": 6,
+        "q": "Waa maxay uur-ku sidka ?",
+        "a": "Uur-ku sidku waa koriinka buuxa ee uurjiik aadamiga"
+      },
+      {
+        "num": 7,
+        "q": "Waa maxay ilmo galeen ?",
+        "a": "Ilmo galeen waa xubin ku dhex taala bartamaha godka sinaha"
+      },
+      {
+        "num": 8,
+        "q": "Maxay leeyihiin naasleyda ?",
+        "a": "Waxa ay leeyihiin lafdhabar iyo dhiig kulul"
+      },
+      {
+        "num": 9,
+        "q": "Sidee ayay ku tarmaan naasleyda ?",
+        "a": "Habka taran jinsiyeedka"
+      },
+      {
+        "num": 10,
+        "q": "Sheeg xubnaha taranka ee dheddiga naasleyda ?",
+        "a": "Xubnaha dhedhiga naasleydu waa  Laba ugxaan sidayaaal   Laba marin ugxaaneed   Ilmo galeen   Xubinta galmada Ugxan sidayaal Marin ugxaneed Marinka Dhalmada Dhuunta Ilma galeenka Ilmo galeen"
+      },
+      {
+        "num": 11,
+        "q": "Maxay soo saarayaan xaniinyaha ?",
+        "a": "Unugyada taranka ee labka ee lagu magacaabo xawo"
+      },
+      {
+        "num": 12,
+        "q": "Sheeg xubnaha taranka ee labka naasleyda ?",
+        "a": " Laba xaniinyo   Marinka xawada  Tubada saarta xawada  Qanjirka taranka  Xubinta galmada"
+      },
+      {
+        "num": 13,
+        "q": "Sawirkaan Maxuu muujinaayaa ?",
+        "a": "Waxuu muujinaayaa habka ay bacraminta udhacdo Kaadi Hays Tubada keydiso xawada Xiniin Xubinta Galmada Qanjirka borostaataha Xaawada labka Ugxaanta dhadiga  Bacramin NB"
+      },
+      {
+        "num": 14,
+        "q": "Yaa iisku xera hooyada iyo uurjiifka ?",
+        "a": "waxaa isku xiriiriya madheerta"
+      },
+      {
+        "num": 15,
+        "q": "Xagee uu ka helaa uurjiifka cuntada ?",
+        "a": "Xudunta"
+      },
+      {
+        "num": 16,
+        "q": "Waa immisa muddada uur sidka ee : bani’aadamka , lo’da , geela , ariga , dooliga ?",
+        "a": " Bani’aadamka 9 bilood   Lo’da 9 bilood   Geela 12 bilood   Ariga 5 bilood   Dooliga 24 maalmood"
+      },
+      {
+        "num": 17,
+        "q": "Sheeg da'da qaangaarka ee wiilasha ?",
+        "a": "13-15 sano"
+      },
+      {
+        "num": 18,
+        "q": "Sheeg saddex kamid ah calaamadaha qaangaarka ee wiilasha ?",
+        "a": "Calaamadaha qaangaarka ee wiilasha waxaa kamid ah :  Waxaa waynaada ama kora xiniinyaha iyo xubinta galmada   Garbaha ayaa balaarta  Codka ayaa isbeddela oo waynaada"
+      },
+      {
+        "num": 19,
+        "q": "Sheeg da'da qaangaarka ee gabdhaha ?",
+        "a": "10-13 sano"
+      },
+      {
+        "num": 20,
+        "q": "Sheeg saddex kamid ah calaamadaha qaangaarka ee gabdhaha?",
+        "a": "Calaamadaha qaangaarka ee gabdhaha waxaa kamid ah :  Ugxaan sidayaasha ayaa ugxaan soo daaya   Waxaa yimaada dhiig lagu magacaabo caado  Sinaha ayaa ballaarta"
+      },
+      {
+        "num": 21,
+        "q": "Goormee ayey caadada kudhacdaa dumarka ?",
+        "a": "Waxey kudhacdaa 28ii cisho mar"
+      },
+      {
+        "num": 22,
+        "q": "Xagee ayuu ku noolyahay rahu ?",
+        "a": "Biyaha iyo barriga"
+      },
+      {
+        "num": 23,
+        "q": "Goormuu tarmaa raha ?",
+        "a": "Xilli roobeedka"
+      },
+      {
+        "num": 24,
+        "q": "Sidee buu ku tarmaa raha ?",
+        "a": "Taran jinsiyeed"
+      },
+      {
+        "num": 25,
+        "q": "Xagee uu ka dhacaa taranka raha ?",
+        "a": "Dibada raha"
+      },
+      {
+        "num": 26,
+        "q": "Waa maxay bacrimin dibadeed ?",
+        "a": "Bacrimin dibadeed waa bacrimin ka dhacda dibada jirka"
+      },
+      {
+        "num": 27,
+        "q": "Muxuu dhalaa raha ?",
+        "a": "Ukun"
+      },
+      {
+        "num": 28,
+        "q": "Maxay u baahantahay ugxaanta raha ?",
+        "a": "Qoyaan iyo biyo"
+      },
+      {
+        "num": 29,
+        "q": "Maxaa ku wareegsan ugxaanta raha ?",
+        "a": "Xab isjiidjiiddanaayo"
+      },
+      {
+        "num": 30,
+        "q": "Muxuu la qayliyaa raha labka ah xilliga roobka ?",
+        "a": "Si uu usoo jiito dheddiga"
+      },
+      {
+        "num": 31,
+        "q": "Sheeg waxtarka uu leeyahay xabka ku wareegsan ugxaanta raha ?",
+        "a": "Waxa uu ka caawiyaa ugxaanta in ay isku dhegto iyo in ay biyo qaadaan"
+      },
+      {
+        "num": 32,
+        "q": "Xagee ka neefsataa kaluumada ?",
+        "a": "Waafiyadood"
+      },
+      {
+        "num": 33,
+        "q": "Waa maxay kaluun ?",
+        "a": "Kaluun waa xayawaan lafdhabareey ah oo dhiig qabow leh"
+      },
+      {
+        "num": 34,
+        "q": "Xagee ayuu ku noolyahay kaluunka ?",
+        "a": "Biyaha"
+      },
+      {
+        "num": 35,
+        "q": "Maxun dhalaa kaluunka ?",
+        "a": "Ukun"
+      },
+      {
+        "num": 36,
+        "q": "Sheeg noocyada kaluunka ?",
+        "a": "Noocyada kaluunka waa saddex nоос :  Daanlaawe  Lafley  Carjawlay"
+      },
+      {
+        "num": 37,
+        "q": "Waa maxay daanlaawe ?",
+        "a": "Waa kaluun afkiisa furanyahay oo aan lahayn wax daan ah"
+      },
+      {
+        "num": 38,
+        "q": "Waa maxay laflayda ?",
+        "a": "Waa kaluun leh qalfoof kasameysan laf"
+      },
+      {
+        "num": 39,
+        "q": "Waa maxay carjawleyda ?",
+        "a": "Waa kaluun leh qolfoof kasameysan carjaw ama tahar"
+      },
+      {
+        "num": 40,
+        "q": "Sidee buu ku tarmaa kaluunka ?",
+        "a": "Taran jinsi dibadeed ah"
+      },
+      {
+        "num": 41,
+        "q": "Sheeg farqiga u dhaxeeyo kaluunka lafleyda ah iyo kan carjawga ah ?",
+        "a": "* Llafley waxa uu leeyahay lafo adag * carjawga waxa uu leeyahay lafo jilicsan"
+      },
+      {
+        "num": 42,
+        "q": "Xagee buu ku tarmaa kaluunka ?",
+        "a": "Biyaha dhexdood"
+      },
+      {
+        "num": 43,
+        "q": "Ma daryeelaa kaluunka ubadkiisa ?",
+        "a": "Maya"
+      },
+      {
+        "num": 44,
+        "q": "Waa kuma kaluunka xanaaneeya ubadkiisa ?",
+        "a": "Tilaabiye"
+      },
+      {
+        "num": 45,
+        "q": "Xagee buu ku qaadaa tilaabiye ubadkiisa ?",
+        "a": "Waxuu ku qaadaa Afkiisa"
+      },
+      {
+        "num": 46,
+        "q": "Tusaale ka bixi mid kasto ka mid ah noocyada kaluunka ?",
+        "a": "Tusaalaha :"
+      },
+      {
+        "num": 1,
+        "q": "Kaluunka daanlaawe",
+        "a": ""
+      },
+      {
+        "num": 2,
+        "q": "Kaluunka lafleyda lambarey toonada",
+        "a": ""
+      },
+      {
+        "num": 3,
+        "q": "Kaluulka carjawda libaax badeed",
+        "a": ""
+      },
+      {
+        "num": 47,
+        "q": "Waa maxay shimbir ?",
+        "a": "Shimbir waa xayawaan lafdhabareey ah oo intooda badan duula waxayn aleeyihiin dhing kulul"
+      },
+      {
+        "num": 48,
+        "q": "Maxay dhalaan shimbiruhu ?",
+        "a": "Ukumo"
+      },
+      {
+        "num": 49,
+        "q": "Xagee ay ku dhalaan shimbiruhu ?",
+        "a": "Buulaha"
+      },
+      {
+        "num": 50,
+        "q": "Ma leeyihiin shimbiraha xubno taran oo dibada yaala ?",
+        "a": "Maya"
+      },
+      {
+        "num": 51,
+        "q": "Maxaa loo yaqaanaa shimbiraha marka ay ku fadhiyaan ukumahooda ?",
+        "a": "Cuq ama xafashto"
+      },
+      {
+        "num": 52,
+        "q": "Sheeg waxtarka uu leeyahay huurinta ukumaha ?",
+        "a": "Iney helaan heer kul ku habboon"
+      },
+      {
+        "num": 53,
+        "q": "Waa maxay ukun dillaacan ?",
+        "a": "Waa muddada ay shimbirtu ku dul fadhido ukunta"
+      },
+      {
+        "num": 54,
+        "q": "Ma isku mid baa muddada ukun dilaacinta ee shimbiraha ?",
+        "a": "Maya"
+      },
+      {
+        "num": 55,
+        "q": "Sheeg mudada ukun dilaacinta digaag ( doorada) ?",
+        "a": "Ukun dilaacinta digaaga waa 21 cisho"
+      },
+      {
+        "num": 56,
+        "q": "Sheeg hababka ukun dilaacinta shimbiraha ?",
+        "a": "* Habka digaaga cuqday ama xafashtay oo kudul fadhiisata ukunta * hab in ukunta lagaliyo makiinada loo yaqaano ukun dilaaciyaal"
+      },
+      {
+        "num": 57,
+        "q": "Waa maxay ukun dilaaciye ?",
+        "a": "Waa makiinad ukunta diirimaad siisa"
+      },
+      {
+        "num": 58,
+        "q": "Ma xanaaneeyaan shimbiruhu ubadkooda?",
+        "a": "haa"
+      },
+      {
+        "num": 59,
+        "q": "Sidee ayay ku tarmaan shimbiruhu?",
+        "a": "Taran jinsiyeed"
+      }
+    ]
+  },
+  "4": {
+    "title": "# Cutubka 4aad : Dhirta",
+    "questions": [
+      {
+        "num": 1,
+        "q": "Waa maxay footoosintasiska ?",
+        "a": "Waa hanaanka ay dhirtu ku sameysato cuntadeeda."
+      },
+      {
+        "num": 2,
+        "q": "Sheeg qaybaha uu ka koobanyahay footoosintasiska ?",
+        "a": "Photo iyo synthesis"
+      },
+      {
+        "num": 3,
+        "q": "Waa maxay micnaha photo - synthesis ?",
+        "a": " Photo = ilays  Synthesis = sameyn"
+      },
+      {
+        "num": 4,
+        "q": "Xaguu ka dhacaa shaqada footo sintesiska ?",
+        "a": "Caleenta geedka."
+      },
+      {
+        "num": 5,
+        "q": "Si uu footosintesiska udhaco maxaa laga maar maan ah in uu geedka helo ?",
+        "a": "waxa uu ubaahan yahay :"
+      },
+      {
+        "num": 1,
+        "q": "Karboon labo ogsaydh",
+        "a": ""
+      },
+      {
+        "num": 2,
+        "q": "Biyo",
+        "a": ""
+      },
+      {
+        "num": 3,
+        "q": "Ilayska qoraxda",
+        "a": ""
+      },
+      {
+        "num": 4,
+        "q": "Maadada cagaarisada.",
+        "a": ""
+      },
+      {
+        "num": 6,
+        "q": "Maxaa lagu magacaabaa daloolaha caleenta ?",
+        "a": "waxaa lagu magacaabaa ibo."
+      },
+      {
+        "num": 7,
+        "q": "Waa maxay (Chloropyl) ama cagaariso ?",
+        "a": "Waa maadada caleenta u yeesha midibka cagaaran."
+      },
+      {
+        "num": 8,
+        "q": "Maxay soo saartaa caleenta ?",
+        "a": "Gulukoos iyo oksajiin."
+      },
+      {
+        "num": 9,
+        "q": "Cuntada uu geedka sameeyo halkee lagu kaydiyaa ?",
+        "a": "Jarida geedka , Xididada , Miraha"
+      },
+      {
+        "num": 10,
+        "q": "Xagee laga helaa tamarta ?",
+        "a": "Cuntada"
+      },
+      {
+        "num": 11,
+        "q": "Waa maxay sil silada Cuntada ?",
+        "a": "Waa xariirka isku tiirsanaanta ah ee Cuntada ka dhexeeya dhirta iyo Xayawaanada"
+      },
+      {
+        "num": 12,
+        "q": "Maxaa dhacaya hadii silsilada cuntada mid ka mid ah maqanyahay ? Waayo ?",
+        "a": "Waxaa dhacaya isku tiirsanaan la'aan ka dhaxeysa dhirta iyo Xayawaanada Waayo midba midka kale wuu ku tiirsan yahay marka loo fiiriyo dhanka Cuntada iyo hawada."
+      },
+      {
+        "num": 13,
+        "q": "Soo baar wasa loola jeedo shabakada Cuntada ?",
+        "a": "Waa xeriirka kadhaxeeya hanaanka tamar socodka"
+      },
+      {
+        "num": 14,
+        "q": "Sheeg dhirta iyo Xayawaanada waxa ay ku kala duwan yihiin ?",
+        "a": "# Dhirta # Xayawaanada"
+      },
+      {
+        "num": 1,
+        "q": "Dhirta masocoto 1- Xayawaanka wuu socdaa",
+        "a": ""
+      },
+      {
+        "num": 2,
+        "q": "Dhirta iyaga ayaa sameysta cuntadooda 2- Xayawaanka masameysan karaan cuntadooda",
+        "a": ""
+      },
+      {
+        "num": 3,
+        "q": "Dhirta koritaankeeda ma xadidna 3- Xayawaanka koritaankiisa wuu xadidan yahay",
+        "a": ""
+      },
+      {
+        "num": 15,
+        "q": "Sharaxaad kooban ka bixi isku tiirnaanshaha dhirta iyo Xayawaanada ?",
+        "a": " Dhirta si ay footosintesis u sameyso waxa ay Xayawaanada ka heshaa kaarboon labo ogsaydh waxay ka kaalmeysaa faxlida iyo firdhinta ininta.  Xayawaanada waxay dhirta ka helaan oksijiin Cunto iyo daawo."
+      },
+      {
+        "num": 16,
+        "q": "Si kooban usharax waxa dhici karo nolosha Xayawaanada hadii laga jaro dhirta ama ay yaraato ?",
+        "a": "Waxaa ku dhici doona hooy la'aan , Cunto la'aan iyo ogsijiin la'aan."
+      },
+      {
+        "num": 17,
+        "q": "Keen tusaale ku saabsan sil silada Cuntada ?",
+        "a": "Cowska waxaa cuno ayaxa , ayaxa waxaa Cuno raha , raha waxaa Cuno maska , maska waxaa cuno gor gorka. NB"
+      },
+      {
+        "num": 18,
+        "q": "Waa maxay soo saare ?",
+        "a": "Waa dhirta"
+      },
+      {
+        "num": 19,
+        "q": "Waa maxay dheefsadaha 2aad ?",
+        "a": "Waa xayawaanada cuna dhirta."
+      },
+      {
+        "num": 20,
+        "q": "Maxay dhirtu ka heshaa xayawaanada?",
+        "a": "Kaarboon laba oksaydh."
+      },
+      {
+        "num": 21,
+        "q": "Maxay xayawaanada ka helaan dhirta?",
+        "a": "Cunto iyo oksajiin"
+      },
+      {
+        "num": 22,
+        "q": "Yaa ka caawiya dhirta falxida?",
+        "a": "Xayawaanada."
+      },
+      {
+        "num": 23,
+        "q": "Maxay qabtaan xidida geedka?",
+        "a": "Waa halka ay dhirtu biyaha ka soo nuugto"
+      },
+      {
+        "num": 24,
+        "q": "Sheeg noocyada quudashada xayawaanada ?  Dhir cune   Hilib cune   Dhir iyo hilib cune",
+        "a": ""
+      },
+      {
+        "num": 1,
+        "q": "Sheeg farqiga u dhaxeeya cimilo iyo cimilo gooreed?",
+        "a": " cimilo waa xaaladaha gibilka ee ay meeli leedahay muddo dheer.  cimilo gooreedu waa xaalada gibilka ay meeli leedahay muddo gaaban."
+      },
+      {
+        "num": 2,
+        "q": "Maxaa lagu magacaabaa barashada cimilada?",
+        "a": "meteorology (meetoroloji)."
+      },
+      {
+        "num": 3,
+        "q": "Maxaa loo yaqaanaa saynisyahanka ka shaqeeya cimilada?",
+        "a": "Cimilo aqooneed."
+      },
+      {
+        "num": 4,
+        "q": "Maxaa lagu uruuriyaa xogaha cimilo gooreedyada?",
+        "a": "dayax gacmeedyada iyo kobmiyuutarada."
+      },
+      {
+        "num": 5,
+        "q": "Sheeg shan kamid ah qalabyada lagu cabiro cimilo gooreedka cabirkooda ?",
+        "a": "Qalabyada lagu cabiro cimilo gooreedka cabirkooda? Qalabka Cabirka 1 Xawaare beegga Dabaysha 2 Roob-beegga Roobka 3 Huur-beegga Qooyaanka hawada ama uumiga Kulbeegga Heerkulka 5 Cadaadis beegga Cadaadiska hawada"
+      },
+      {
+        "num": 6,
+        "q": "Maxaa sababaya in labarto cimilada?",
+        "a": "is bedellada cimilada oo sameyn ku leh aadanaha dunidaan ku nool"
+      }
+    ]
+  },
+  "5": {
+    "title": "# Cutubka 5aad : Cimilo gooreed",
+    "questions": [
+      {
+        "num": 7,
+        "q": "Sheeg cimilada ugu saameynta badan ?",
+        "a": "cimilada ugu saameynta badan waa.  Heer kulka.  Xadiga roobka da'a.  Dabaysha."
+      },
+      {
+        "num": 8,
+        "q": "Waa maxay tacabka beeraha ?",
+        "a": "beerida dhirta."
+      },
+      {
+        "num": 9,
+        "q": "Waa maxay keymo ?",
+        "a": "waa keyd dabiici ah oo illaahay nasiiyay."
+      },
+      {
+        "num": 10,
+        "q": "Waa maxay dalxiis ?",
+        "a": "dalxiisku waa u safrida goobo leh dhaqamo."
+      },
+      {
+        "num": 11,
+        "q": "Waa maxay safaanaa ?",
+        "a": "Safaanaa waxaa loo yaqanaa cowska dhaadheer."
+      },
+      {
+        "num": 12,
+        "q": "Immisa aye gaarayaan geedaha ka baxa keymaha ?",
+        "a": "3 Tiriliyan. Oo geed ah."
+      },
+      {
+        "num": 13,
+        "q": "Maxay leeyihiin goobaha loo dalxiis tago ?",
+        "a": "Ilbaxnimo iyo waayo aragnino."
+      },
+      {
+        "num": 14,
+        "q": "Sheeg cimilo goboleedyada leeyihiin keymaha ?",
+        "a": "Keymaha waxay leeyihiin  cimilo kuleyl.  cimilo dhexdhexaad.  Cimilo qabow."
+      }
+    ]
+  },
+  "6": {
+    "title": "# Cutubka 6aad : Fududaynta Hawsha",
+    "questions": [
+      {
+        "num": 1,
+        "q": "Waa maxay hawl ?",
+        "a": "Hawl waa wax laqabtay marka xoog la adeegsado si walax looga dhaqaajiyo meel loona geeyo meel kale."
+      },
+      {
+        "num": 2,
+        "q": "Waa maxay Tamar ?",
+        "a": "Tamartu waa awoodda hawl lagu qabto."
+      },
+      {
+        "num": 3,
+        "q": "Sheeg labada nooc ee ugu waa weyn ay tamartu leedahay ?",
+        "a": "Waa tamarta socodka iyo tamarta kaydsan."
+      },
+      {
+        "num": 4,
+        "q": "Waa maxay mashiinada fudud ?",
+        "a": "Mashiinada fudud waa: qalabyada howsha fududeeya."
+      },
+      {
+        "num": 5,
+        "q": "Labo ka sheeg mashiinnada fudud shaqooyinka u gaarka ah oo ay qabtaan ?",
+        "a": ""
+      },
+      {
+        "num": 1,
+        "q": "waxa uu xoogga ka gudbiyaa meel oo uu geeyaa meel kale.",
+        "a": ""
+      },
+      {
+        "num": 2,
+        "q": "waxa uu yareeya waqtiga hawsha la qabanaayo.",
+        "a": ""
+      },
+      {
+        "num": 6,
+        "q": "Immisa qaybood ayaa loo qaybiyaa mashiinada fudud?",
+        "a": "waxaa loo qeybiyaa lix qaybood oo kala ah:  Garaangar  sabarad  Kabaalka.  Salax janjeera.  Kariirad.  Musbaarka maraaraha.  Khaafiyad."
+      },
+      {
+        "num": 7,
+        "q": "Waa maxay sallax janjeera?",
+        "a": "Salllax janjeera waa dul janjeer leh kana sameysan alwaax ama bir fidsan"
+      },
+      {
+        "num": 8,
+        "q": "Maxaa loo adeegsadaa sallax janjeera?",
+        "a": "waxaa loo adeegsadaa fududeynta walxaha culus si loo gaarsiyo meel sare."
+      },
+      {
+        "num": 9,
+        "q": "Yaa adeegsada sallax janjeera?",
+        "a": "sallax janjeera waa inta badan adeegsada dadka baahiyaha gaarka qaba oo aan socon Karin."
+      },
+      {
+        "num": 10,
+        "q": "Sheeg noocyada sallax janjeer?",
+        "a": "noocyada sallax janjeera waxaa kamid ah: Musbaarka maraaraha leh"
+      },
+      {
+        "num": 11,
+        "q": "Maraaran maxaa loo adeegsadaa?",
+        "a": "maraaran waxaa loo adeegsadaa in :  In lagu dhuujiya walxaha.  In la isku xiro biraha.  In lagu dalooliya biraha ama ceelasha ayaa lagu qodaa.  In kor loogu qaado walxaha culus sida gariiga"
+      },
+      {
+        "num": 12,
+        "q": "Waa maxay kariirad?",
+        "a": "Kariirad: waa laba sallax janjeera oo kala daadagaya."
+      },
+      {
+        "num": 13,
+        "q": "Maxaa loo adeegsadaa kariiad?",
+        "a": "waxaa loo adeegsadaa in:  Kala qaybinta walxaha.  Kala jaridda walxaha  Lagu kala dilaaciyaa walxaha"
+      },
+      {
+        "num": 14,
+        "q": "Waa maxay kabaal?",
+        "a": "Kabaalka waa ul fidsan oo ka sameysan loox ama bir adag oo ku dul wareegta bar ama taako"
+      },
+      {
+        "num": 15,
+        "q": "Maxaa loo adeegsaadaa kabaalka?",
+        "a": "Waxaa loo adeegsadaa qaadida iyo dhaqaajinta walxaha culus."
+      },
+      {
+        "num": 16,
+        "q": "Sheeg kabaalka waxa uu ka kooban yahay?",
+        "a": "kabaalku waxa un ka kooban yahay afar qaybood :  Sabarad: waa dusha fidsan oo ka sameysan bir ama alwaax.  Taako(barkin): waa barta dhexe ee waxa wareejisa  Karti taag: waa xoogga loo adeegsado in walxaha culus lagu qaado.  Rarka waa: waa culayska walaxda la dhaqaajinayo."
+      },
+      {
+        "num": 17,
+        "q": "Sheeg qaacidada lagu helo hawl iyo waxa lagu halbeega?",
+        "a": "Hawsha waxaa lagu helaa. H = X x F"
+      },
+      {
+        "num": 18,
+        "q": "Maxaa lagaga soo gaabiyay ereyadaan H= XF ?",
+        "a": "H=hawl     ,    X= xoogg      ,     F= fogaan."
+      },
+      {
+        "num": 19,
+        "q": "Sheeg Halbeega lagu cabbiraa kuwaan Fogaan ,  Xoog  iyo Hawl ?",
+        "a": "Fogaan Mitir (M)         ,           Xoog Niyuutan (N)        ,        Hawl Juul(Joules)."
+      },
+      {
+        "num": 20,
+        "q": "Raadi hawsha la qabtay haddi xoogg dhan 30N oo uu dhaqaajiyay 10m oo fogaan ah?",
+        "a": "Furfuris : X = 30N F = 10m H=  ? H = X x F H = 30N x 10m =  300 J Hawsha laqabtay waa 300 Juul"
+      },
+      {
+        "num": 21,
+        "q": "Waa maxay sabarad?",
+        "a": "Sabarad wa dusha fidsan oo ka sameysan bir ama alwaax."
+      },
+      {
+        "num": 22,
+        "q": "Sahra ayaa dhulka sare uga qaadday digsi bariis kujira oo 5kg ah, waxa ayna saartay miis jooggiisu yahay 2 mitir hadaba soo saar hawsha la qabtay?",
+        "a": "Furfuris : Cuf = 5kg Fogaan=2m G = karaaf cuf-isjiidaadka u qaado( 10m / (s ^ 2) ) X= M x G X=10kg × 10m/s^2 = 20N H=X x F H = 20 N x  2m = 40 J NB"
+      },
+      {
+        "num": 23,
+        "q": "Waa maxay khafiyadu?",
+        "a": "Khafiyadu waa garaangar jeexdin leh."
+      },
+      {
+        "num": 24,
+        "q": "Waa maxay muhiimada ama ulajeeda loo isticmaalo cajaladdu?",
+        "a": "cajaladdu waxay fududeysaa hawlaha si loo kaydsado tamarta ama loo adeegsado xoog aad u"
+      },
+      {
+        "num": 25,
+        "q": "Sheeg noocyada khafiyadaha?",
+        "a": "noocyada khafiyadaha waxaa kamid ah :  Mid Aan dhaqaaqin  Mid dhaqdhaqaaqda"
+      },
+      {
+        "num": 26,
+        "q": "Sheeg tusaalooyinka khafiyadaha?",
+        "a": "tusaalooyinka khafiyadaha waxaa kamid ah.  Wiishashka.  Culeys qaadayaasha kaar glift(foorliif).  Garan garta ceelasha biyaha cajaladda.  Qalabyada jirdhiska. yar"
+      }
+    ]
+  },
+  "7": {
+    "title": "# Cutubka 7aad : Ilayska",
+    "questions": [
+      {
+        "num": 1,
+        "q": "Waxaa maxay kaamirada biin daloolka ?",
+        "a": "waa kaamire sahlan oo bikaaco la aan ah hasayeeshee waxaa ay leedahay dalool yar oo xakameeya ilayska."
+      },
+      {
+        "num": 2,
+        "q": "Maxay ka sameysan tahay kamiirada biin daloolka ?",
+        "a": "Kamirada biin daloolka waxa ay ka sameysan tahay sanduuq aan ilaysku gudbin oo dhinac ka leh dalool yar oo ilaysku ka soo galo"
+      },
+      {
+        "num": 3,
+        "q": "Maxaa sameysaa kaamirada biin daloolka ?",
+        "a": "Kaamirada biin-daloolka waxay sameysaa humaag foorara / Rogan / Qaliban."
+      },
+      {
+        "num": 4,
+        "q": "Maxaa dhacaya marka ilaysku uu ka yimaado cirifka sare ee geedka ?",
+        "a": "waxa uu ku dhacayaa halka hoose ee filimka ama waraaqada cad ee bin daloolka kaamirada"
+      },
+      {
+        "num": 5,
+        "q": "Maxaa dhacaya marka ilaysku uu ka yimaado salka hoose ee geedka ?",
+        "a": "Tani waxa ay keeneysaa oo ay sababeysaa in sawirka geedku uu fooraaro."
+      },
+      {
+        "num": 6,
+        "q": "Qaabkee u sameysan tahay ishu ?",
+        "a": "ishu waxa ay u samaysan tahay qaabka ukunta."
+      },
+      {
+        "num": 7,
+        "q": "Ishu maxay sameysaa ?",
+        "a": "Ishu waxa ay samaysaa humaag foorara haseyeeshee maskaxda ayaa toosisa oo saxda humaaggaas."
+      },
+      {
+        "num": 8,
+        "q": "Tax shanta qayb ay ishu ka kooban tahay ?",
+        "a": "waxay ka kooban tahay shan qaybo kala duwan oo kala ah :  Xuubka isha  Bikaaca isha  Bu'da isha  Retinaha isha  Wiilka isha Xuubka isha Wiilka isha Retinaha isha"
+      },
+      {
+        "num": 9,
+        "q": "Sawirka isha aadanaha ?",
+        "a": ""
+      },
+      {
+        "num": 10,
+        "q": "Waa maxay xuubka isha ?",
+        "a": "Xuubka isha waa lakabka sare ee isha, waana if-gudbiye si fududna u gudbiya ilayska."
+      },
+      {
+        "num": 11,
+        "q": "Sheeg shaqada xuubka isha ?",
+        "a": "Shaqadeeda waxaa kamid ah in ay ilayska u ogolaato inuu u gudbo gudaha isha."
+      },
+      {
+        "num": 12,
+        "q": "Waa maxay bu'da isha ?",
+        "a": "Bu'da isha waa qaybta go'aamisa midibka isha."
+      },
+      {
+        "num": 13,
+        "q": "Sheeg shaqada bu'da isha ?",
+        "a": "Waxa ayna xakameysa xaddiga ilayska ee galay wiilka isha iyadoo kala baxda marka uu ilaysku yar yahay iskuna soo uruurta marka uu ilaysku badan yahay."
+      },
+      {
+        "num": 14,
+        "q": "Waa maxay wiilka isha ?",
+        "a": "waa barta yare ee wareegsan ee dhex bartanka bu'da isha."
+      },
+      {
+        "num": 15,
+        "q": "Sheeg shaqadeeda ?",
+        "a": "shaqadeedu waa in ay ilayska usii gudbiso bikaacada isha."
+      },
+      {
+        "num": 16,
+        "q": "Waa maxay bikaacada isha  ?",
+        "a": "Bikaacada isha waa bikaacada aan u adkeyn sida midda kaamirada. Bikaacda isha Bu’da Muruqyada isha Xidid dareenka"
+      },
+      {
+        "num": 17,
+        "q": "Sheeg shaqadeed ?",
+        "a": "Shaqadeedu waxa ay tahay in ay ilaysku iskugu soo uruuriso barta retinaha ee isha."
+      },
+      {
+        "num": 18,
+        "q": "Sharaxaad kooban ka bixi arag dheerida ?",
+        "a": "Arag dheerida waa in aan la arkin waxa kaa fog, waxaana sabab u ah in humaaga uu ka sameysmo retinaha gadaashiisa."
+      },
+      {
+        "num": 19,
+        "q": "Sharaxaad kooban ka bixi arag gaabnida ?",
+        "a": "Arag-gaabnida waa in aan la'arkin waxa kuu dhow, waxaana sabab u ah in humaaggu ka samaysmo retinaha hortiisa"
+      },
+      {
+        "num": 20,
+        "q": "Maxaa lagu saxaa arag dheeridu ?",
+        "a": "waa lagu saxaa bikaaco kulmiso ah."
+      },
+      {
+        "num": 21,
+        "q": "Maxaa lagu saxaa arag gaabnida ?",
+        "a": "waxaa lagu saxaa bikaaco ilays firdhiye ah."
+      },
+      {
+        "num": 22,
+        "q": "Is barbardhig isha iyo kaamirada bin-daloolka ?",
+        "a": "Kaamirada bin-daloolka iyo isha wax ay labaduba soo saaraan sawir foorara, hase yeeshee sawirka foorara oo ay ishu sameyso maskaxda ayaa ka dhigta mid toosan, halka kaamirada bin- daloolka aysan lahayn wax toosiya."
+      }
+    ]
+  },
+  "8": {
+    "title": "# Cutubka 8aad : Dhulka iyo Hawada Sare",
+    "questions": [
+      {
+        "num": 1,
+        "q": "Waa maxay urur xiddigeedka ?",
+        "a": "In urur xiddigeedku yahay koox xiddigo ah oo habeenkii cirka lagu arko, lehna xuduud go'an."
+      },
+      {
+        "num": 2,
+        "q": "Sheeg macnaha erayga urso ?",
+        "a": "Jurso waa magic laatiin ah oo loo yaqaano oorsa ah."
+      },
+      {
+        "num": 3,
+        "q": "Sheeg macaga labaad ee loo yaqaano xiddigga cirifka ?",
+        "a": "Xiddigga Qiblada"
+      },
+      {
+        "num": 4,
+        "q": "Side ayaa xiddigta cirifku ucaawisaa badmaaxayada ?",
+        "a": "cirifeedku waxa uu waxtar u leeyahay oo uu caawiyaa bad mareenka. Maxaa yeelay mar walba waxa ay joogtaa meel isku mid ah ee xagga waqooyi"
+      },
+      {
+        "num": 5,
+        "q": "Sheeg qaar kamid ah Urur Xiddigeedyada ?",
+        "a": "waxaa kamid ah:  Xiddigga cirifka.  Nin la gigay.  Xiddigga libaaxa.  Todobka  Isku tallaabta koonfureed"
+      },
+      {
+        "num": 6,
+        "q": "Urur xiddigeedka xagge laga arki karaa ?",
+        "a": "Waxaa laga arki karaa cirifka waqooyi iyo cirifka koofureedka."
+      },
+      {
+        "num": 7,
+        "q": "Waa maxay macnaha erayga leo ?",
+        "a": "Leo waa eray Giriig oo ah macnihiisu yahay libaax."
+      },
+      {
+        "num": 8,
+        "q": "Bilaha sanadka, kuwee ayaa la arkaa urur xiddigeedks laxaha ?",
+        "a": "waxaa la arkaa Bisha Oktoobar."
+      },
+      {
+        "num": 9,
+        "q": "Waa maxay urur xiddigeeda isku tallaabta koonfureed ?",
+        "a": "urur xiddigeedyadan waa kuwa adka ha u caawiya bad mareenada u socdaala koonfurta"
+      },
+      {
+        "num": 10,
+        "q": "Imisa xiddiga ayuu ka kooban yihiin urur xiddigeedyadan ?",
+        "a": "waa urur xiddigeed ka kooban shan xiddigood"
+      },
+      {
+        "num": 11,
+        "q": "Waa mxay dayax gacmeedku ?",
+        "a": "dayax gacmeedku waa dayax, meere ama mashiino ku wareegga meere ama xiddig."
+      },
+      {
+        "num": 12,
+        "q": "Waa maxay qaybaha dayax gacmeedka ?",
+        "a": "Dayax gacmeedka waxuu ka kooban yahay :  Anteenno  Il Tamareed."
+      },
+      {
+        "num": 13,
+        "q": "Maxaa loogu faa'ideysan karaa isticmaalka dayax gacmeedka?",
+        "a": "Dayax gacmeedka waxaa looga faaideysta sida isgarsiinta , cilmi barista , Saadaalinta cimilo gooreedka iwm."
+      }
+    ]
+  },
+  "9": {
+    "title": "# Cutubka 9aad : Tamarta Kulka",
+    "questions": [
+      {
+        "num": 1,
+        "q": "Maxay tahay qorraxdu  ?",
+        "a": "qorraxdu waa isha asaasiga ah ee laga helo kul tamareedka."
+      },
+      {
+        "num": 2,
+        "q": "Waa maxay kul  ?",
+        "a": "Kulku waxa uu yahay nooc kamid ah tamarta oo muhiim u ah nolosha, lagana helo qorraxda."
+      },
+      {
+        "num": 3,
+        "q": "Maxay tahay ilaalinta tamarta kulka ?",
+        "a": "ilaalinta tamarta kulka waa habsami u adeegsiga tamarta la haysto iyada oo la ilaalinayo Tamar lumidda"
+      },
+      {
+        "num": 4,
+        "q": "Sidee kulka loo kaydin karaa ?",
+        "a": "Kulku waxaa loo keydin karaa habab kala duwan oo ay ka mid yihiin in la isticmaalo Soolarada , Tannuusyada iyo Kululeysada IWM."
+      },
+      {
+        "num": 5,
+        "q": "Sheeg qaybaha burjikooyinka ?",
+        "a": "Burikooyinka waxaa loo qeybiyaa saddex nooc oo kala ah :-  Burjiko xadiid.  Burjiko dhoobo.  Burjiko casri ah."
+      },
+      {
+        "num": 6,
+        "q": "Burjiko xadiidku maxay kasameysan tahay ?",
+        "a": "Burjiko xadiidka waxa ay dhinacyadeedu iyo godkeeduba kasameysan yihiin Xadiid"
+      },
+      {
+        "num": 7,
+        "q": "Sheeg farqiqa u dhaxeeya burjikada casriga ah iyo tii hore looga isticmaali jiray dalka?",
+        "a": "burjikada casriga ah waa mid aan dhuxul badan isticmaalin Halka middii hore dhuxul badan ay isticmaasho."
+      }
+    ]
+  },
+  "10": {
+    "title": "# Cutubka 10aad : Deegaanka",
+    "questions": [
+      {
+        "num": 1,
+        "q": "Waa maxay dikhowga carrada ?",
+        "a": "dikowe carrada war wasakhaynta carrada"
+      },
+      {
+        "num": 2,
+        "q": "Carradu maxay muhimu tahay ?",
+        "a": "Carradu waxa ay muhim u tahay jiritaanka dhirta iyo beeraha"
+      },
+      {
+        "num": 3,
+        "q": "Sheeg labo wax yaabood oo keena dikhowga carrada ?",
+        "a": "Dikhowga carrada waxaa keena :  Qashinka ka dhasha howlada andahana  Qaslunka u dhasha si dabiiciga ah"
+      },
+      {
+        "num": 4,
+        "q": "Sheeg seddax ka mid ah qashinka ka dhasha howlaha aadanaha ?",
+        "a": "waxaa kamid ah :  Sunta haraaga warshadaha.  Kaydinta wasakhda ee godadka khashinka  Howlaha dhismaha guryaha iyo wadooyinka."
+      },
+      {
+        "num": 5,
+        "q": "Sheeg seddax ka mid ah qashinka ka dhasha si dabiiciga ah ?",
+        "a": "Waxaa kamid ah kuwaan so socda:-  Foolkaanooyinka : wa qarax kadhaca dhulka hoostiisa.  Dhul gariirka : wa dhacdo dabiici ah sababto bur burka dhulka  Fatahaadaha : webiyada markay buux dhaafiyaan ama barafka buuraha ku da'a markay dhalaalaan waxaa kadhasha fatahaad."
+      },
+      {
+        "num": 6,
+        "q": "Maxaa keena foolkaanada ?",
+        "a": "Waxaa keena marka ay aad u kululaato macdanta ku jirta dhulka."
+      },
+      {
+        "num": 7,
+        "q": "Labo ka sheeg waxtarka dhirta ay leedahay ?",
+        "a": ""
+      },
+      {
+        "num": 1,
+        "q": "Dhirtu waxa ay deegaanka ka ilaalisaa dhiikhawga.",
+        "a": ""
+      },
+      {
+        "num": 2,
+        "q": "waxa ay hoos u dhigtaa heer kulka xilliga jiilaalka.",
+        "a": ""
+      },
+      {
+        "num": 8,
+        "q": "Saddex kasheeg habaka kala duwan ée dhirta lagu daryeelo ?",
+        "a": "Hababka kala duwan ee dhirta lagu daryeeli karo waxa kamid ah :  La dagaalanka xaalufinta dhirta  Beerida dhir cusub.  Bacriminta dhirta iyo in laga ilaaliyo dhibaatooyinka soo gaari kara"
+      },
+      {
+        "num": 9,
+        "q": "Waa maxay dhirayn ?",
+        "a": "Dhirayntu waa in dhir cusub lagu tallaalo iyada oo la samaynayo kaymo cusub."
+      },
+      {
+        "num": 10,
+        "q": "Waa maxay daryeelka biyaha ?",
+        "a": "Daryeelka biyuhu wa dhowridda iyo maareynta biyaha iyo khayraadkooda"
+      }
+    ]
+  },
+  "11": {
+    "title": "# Cutubka 11aad : Danabka iyo Birlabnimada",
+    "questions": [
+      {
+        "num": 1,
+        "q": "Waa maxay birlab ?",
+        "a": "Birlabku waa bir awood u leh in ay soo jiidato biraha kale."
+      },
+      {
+        "num": 2,
+        "q": "Xagee ayay ka bilaabatay soo saarista birlabta ?",
+        "a": "soo saarista birlabta waxa ay ka bilaabatay magaalo yar oo Turkida  ku dhaw loo yaqaano Magnesia."
+      },
+      {
+        "num": 3,
+        "q": "Goormee ayuu sameyay seynisyahan orestid tijaabadaan ?",
+        "a": "1820kii"
+      },
+      {
+        "num": 4,
+        "q": "Sheeg noocyada birlabta mid walbane qeex ?",
+        "a": "Noocyada birlabta waa saddex waxayna kala yihiin :  birlab rasmi ah.: waa kuwa birlabnimadda haysta muddo dheer kadib marka la birlabeeya:  birlab aan rasmi ahayn : waa kuwa birlabnimadada lumiya mudda kooban ka dib marka la birlabeeyo.  birlab danabeed : waa kuwa  birlabnimadeedu ay ku xirantahay danabka."
+      },
+      {
+        "num": 5,
+        "q": "Waa maxay bedka birlabta ?",
+        "a": "Bedka birlabta: waa goobta ku wareegsn birlabta ama danabka taas oo laga dareemo xooga birlabta."
+      },
+      {
+        "num": 6,
+        "q": "Xagee xooga birlabta ku badan yahay ?",
+        "a": "Cirifyada birlabta."
+      },
+      {
+        "num": 7,
+        "q": "Sheeg sharciga aasaaska ah ee birlabta ?",
+        "a": "Cirifyada isku midka ah ee birlabtu way kala caraaraan , cirifyada kala duwan way isasoo jiitaan."
+      },
+      {
+        "num": 8,
+        "q": "Immisa cirif ayay leedahay birlabtu ?",
+        "a": "Birlabtu waxa ay leedahay laba cirifood oo kala ah : Cirifka waqooyi iyo Cirifka koonfureed."
+      },
+      {
+        "num": 9,
+        "q": "Maxaa loo adeegsadaa hard darive?",
+        "a": "waxaa loo adeegsadaa in lagu keydiyo xogaha sida e-mailada , sawirada iyo aflaanta."
+      },
+      {
+        "num": 10,
+        "q": "Sheeg qayb kamid ah adeegsiga birlabta?",
+        "a": "Waxaa loo adeegsadaa dawan-danabeedka iyo matoor danabeedka."
+      },
+      {
+        "num": 11,
+        "q": "Maxaa loo adeegsan karaa Birlab-danabeedka?",
+        "a": "Birlab-danabeedka waxaa loo adeegsan karaan in laga sameeyo wiishaska kala saaro birta xadridka iyo biraha kale sidoo kale waxaa loo adeegsan karaa dhaqaajinta walxaha culus."
+      },
+      {
+        "num": 12,
+        "q": "Waa maxay matoor danabeed?",
+        "a": "matoor danabeed waa qalab loo adeegsado tamarta korontada in uu u bedelo tamarta socodka."
+      },
+      {
+        "num": 13,
+        "q": "Birta maxaa laga dhalin karaa?",
+        "a": "Birlabta danab ayaa laga dhalin karaa si islamar kaana waxay dhalineysa danabka birlab ah"
+      },
+      {
+        "num": 14,
+        "q": "Birlab danabeedku xaggee bey ka dhalataa?",
+        "a": "waxa ay ka dhashataa maayada danabka , waxa ayna leedahay adeegsi badan sida wishka qaada biraha culus, codbaahiyaasha iyo sameecada."
+      },
+      {
+        "num": 15,
+        "q": "Maxay tahay ujeedada ah in lasameeyo tijaabada ah in fiilada lagu duubo musbaarka kadibana lagu xiro fiilada labada qotan ee batariga ?",
+        "a": "In laga dhaliyo birlab danabeed NB"
+      },
+      {
+        "num": 16,
+        "q": "Matoor danabka muxuu badalaa?",
+        "a": "waxa uu u beddela tamarta danabka tamarta socodka"
+      },
+      {
+        "num": 17,
+        "q": "Sheeg qaybaha matoorada sahlan uu leeyahay?",
+        "a": "Qeybaha matoorada sahlan waa :  Armajar(daynabo)  Tirtire   Bed-birlabeed  Komiyuutaytar  Gobal bir ah  Quwad DC ah"
+      },
+      {
+        "num": 18,
+        "q": "Sidee ayuu u shaqeeyaa matoor danabeedka?",
+        "a": "Waa qalab loo adeegsado tamarta korontada in uu ubeddelo tamarta socodka , waxa uu leeyahay waxtar badan, waxaa laga helaa guryaha, xafiisyada iyo meela kala duwan."
+      },
+      {
+        "num": 19,
+        "q": "Sheeg qeybaha dawanada ?",
+        "a": ""
+      },
+      {
+        "num": 1,
+        "q": "Dawan gacmeed",
+        "a": ""
+      },
+      {
+        "num": 2,
+        "q": "Dawan danabeed",
+        "a": ""
+      },
+      {
+        "num": 20,
+        "q": "Waa maxay dawaan danabeedka?",
+        "a": "Waa qalab makaanika ah oo uu ku shaqeeya birlab-danabeed , waxa uu soo saaraa dhawaaqyo isku xigxiga , waxaana loo adeegsadaa dugsiyada , taleefoonada iyo dab-damisyada."
+      },
+      {
+        "num": 21,
+        "q": "Waa maxay micnaha laga wado dawan-gacmeed?",
+        "a": "dawan-gacmeed waxaa waaye micnahiisu ganbaleel."
+      }
+    ]
+  },
+  "12": {
+    "title": "# Cutubka 12aad : Dhaqashada Xoolaha",
+    "questions": [
+      {
+        "num": 22,
+        "q": "Waa maxay digaaggu ?",
+        "a": "diganggu waa xayawaanka ugu badan uguna ballaaran ee dabjoogga loo yaqano ama dadka la nool waana nooc ka mid ah shimbiraha baaalal leh aan duulin lagana helo ukun iyo hilib"
+      },
+      {
+        "num": 23,
+        "q": "Sheeg hababka loo dhaqan karo digaagga ?",
+        "a": "hababka loo dhaqdo digaagada waxaa kamid ah :  Habka dibad joogga  Hab dhaqashada in lagu dhex dhaqo xero leh dhaqdhaqaaq xor ah  Hab dhaqashada in lagu dhex dhaqo xero aan lahayn dhaqdhqaaq xor ah"
+      },
+      {
+        "num": 24,
+        "q": "Maxaa dhacaya haddii heer kulka hawada ee xerada digaagga ukunta uu hoos uga dhaco 22C?",
+        "a": "waxaa dhacda inay badato cunto cunidda digaagga."
+      },
+      {
+        "num": 25,
+        "q": "Habkee ugu fudud hababka loo dhaqdo digaagga ?",
+        "a": "waxaa ugu fudud habka dibad joogga."
+      },
+      {
+        "num": 26,
+        "q": "Sheeg laba kamid ah faa'iidooyinka ay leeyihiin habka xero ku haynta digaagga ?",
+        "a": "faa'iidooyinka ay leeyihiin habka xero ku haynta digaagga waxaa kamid ah :  Waxaa fudud dhaqashadooda iyo la socodka xaaladdooda.  Waxa laga helaa saxarro digaag oo loo adeegsan karo bacriminta beeraha."
+      },
+      {
+        "num": 27,
+        "q": "Hadii digaaggii lagu haayo xerooyinka aan lahayn dhaqdhaqaaq xor ah maxaa ka dhalan karo ?",
+        "a": "qasaaraha ka dhalan karto xero ku haynta digaagga in ay soo kordhisay cudurro cusub oo ku dhaca digaagga oo ay keentay dhaqdhaqaaq la'aanta."
+      },
+      {
+        "num": 28,
+        "q": "Sheeg noocyada dhaqashada digaagga iyo ujeedooyinka loo dhaqdo nooc walba ?",
+        "a": "dhaqashada digaagga waxa loo qaybiyaa laba nooc oo kala ah :  Hilboolayaal : Ujeeda ugu wayn ee loo dhaqdo hilboolayaasha waxa ay noqonaysaa in laga helo hilib.  Ukun dhalayaal : Ujeeda ugu wayn ee loo dhaqdo ukun dhalayaasha waxa ay noqonaysaa in laga hela ukun"
+      },
+      {
+        "num": 29,
+        "q": "Sheeg astaamaha lagu garan karo digaagada loo dhaqdo in laga helo hilib ?",
+        "a": "waxaa kamid ah astamaha ay leeyihiin :  In aysan si dhaqsi ah u qaangaarin  In wax soo saarka ukuntooda uu yaryahay"
+      },
+      {
+        "num": 30,
+        "q": "Noocaan loo yaqaano hilboolayaasha qofka dhaqanayo waxa uu ku quudiyaa cunto nafaqo leh hadaba sheeg sababta uu u siinaayo ?",
+        "a": "waxaa uu u siyaa si uu ugu koro si fiican"
+      },
+      {
+        "num": 31,
+        "q": "Digaaga loo dhaqdo hilibka dhaqsi miyey ku qaan gaaraan ?",
+        "a": "Waa maya."
+      },
+      {
+        "num": 32,
+        "q": "Sheeg astaamaha lagu garan karo digaagada loo dhaqdo in laga helo ukun ?",
+        "a": "digangga loo dhaqda ukun soo saaristu waxa ay leevihiin astaamaha soo socda :  In ay xajmi yar yihiin  In ay culayskoodu uu fudud yahay  In ay dhalaan ukun badan"
+      },
+      {
+        "num": 33,
+        "q": "Maxay ku xirantahay tirade ukunta digaagga ?",
+        "a": "Tirada ukunta ee digaagga waxa ay ku xeran tahay seddax shay :  Waqtiga boojaashu bilowday ukunta (da'da qaangaarka)  Habka dhagashada ma mid sareeyaa oo wax kasto oo ay u baahato digaaggu waa ay heshaa miyaa mase waa mid hooseyo  Sinjiga digaagga ay ka soo jeedo mid hormarsan baa mase waa mid aan hormarsanayn oo cuq (xafash) ah"
+      },
+      {
+        "num": 34,
+        "q": "Imise ukun ayaa laga rabaa in ay digaagadu ay dhasho sanadkii ?",
+        "a": "waa in ay digaaggadu dhashaa 300 oo ukun ah."
+      },
+      {
+        "num": 35,
+        "q": "Waa maxay xero digaag ?",
+        "a": "xero digaag waa guri yar ama la waynayn karo nooc ahaan oo si nabad gelyo ah ay digaaggu ugu noolaan karaan."
+      },
+      {
+        "num": 36,
+        "q": "Guriga ama xerada digaagga waa in ay lahaataa oo laga heli karaa hadaba sheeg seddax kamid ah ?",
+        "a": " Hawa wanaagsan oo ay ku taallaa meel ku habboon iyo heer kul ku habboon.  Dhismo ku filan oo leh cabbiraado ku habboon  Weel cunada digaagga loogu shubo."
+      },
+      {
+        "num": 37,
+        "q": "Waa maxay ujeedada digaagga loogu samaynaayo xero iyo guri ?",
+        "a": "waa in laga difaacaa cimilada xun, kulaylka, qabowga, dabaysha iyo in ay ka aman helaan kuwa ugaarsada digaagga."
+      },
+      {
+        "num": 38,
+        "q": "Sheeg laba kamid ah astaamaha xerada digaagga ?",
+        "a": "astaamaha xerada digaagga waxaa kamid ah :  Waa in ay xeradu lahaataa dhismo sagxadda iyo gidaarraduba adag yihin.  Waa in loo dhisaa hab si sahlan looga xaaqi karo saxarrda digaagga"
+      },
+      {
+        "num": 39,
+        "q": "Waa maxay huurin ?",
+        "a": "Huurin waxaa loolajeeda marka ay digaagadda cuqda ahi ku fariisato ukumaheeda."
+      },
+      {
+        "num": 40,
+        "q": "Sheeg qaybaha huurinta ?",
+        "a": "Qaybaha huurinta waa laba qaybood waxa ayna kala yihiin :  Huurinta dabiiciga ah.  Huurinta aaladeed."
+      },
+      {
+        "num": 41,
+        "q": "Qeex huurinta dabiiciga ukunta ?",
+        "a": "Huurinta dabiiciga ah waa marka ay digaagadda cuqda ahi ku fariisato ukumaheeda"
+      },
+      {
+        "num": 42,
+        "q": "Qeex midda aalladda ?",
+        "a": "huurinta aaladeed ay tahay in ukunta la dhex dhigo mashiin la yiraahdo dilaaciye"
+      },
+      {
+        "num": 43,
+        "q": "Sheeg shuruudaha lagama maarmaanka u ah huurinta aaladeed ?",
+        "a": "shuruudaha lagama maarmaanka u ah huurinta aaladeed waxaa ka mida :  In la hubiyo ukunta la rabo in la dilaaciyo inay tahay mid bacrimisan oo digaagadda ukunta dhashay inta aysan qolofta saarin ukunta ay ku dartay biyihii diiqa (Shahwada)  In la hubiyo qaabka ukunto loo soo kaydiyay inta aanan mashiinka la gelin.  In la miisaamo ukunta culayskeeda.  In la fiiriyo tayada ukunta qolofkeeda.  Hiddesidaha ay ximbaarsan tahay.  Cudur la 'aanta ukunta.  Heer kulka mashiinka.  Hawo is dhaafka mashiinka ġudihiisa.  Nadaafadda iyo uumiga mashiinka."
+      },
+      {
+        "num": 44,
+        "q": "Waa maxay Huunyo ?",
+        "a": "huunyo waa cayayaan aad u yar oo dhererkeedu gaarayo ilaa I-6mm."
+      },
+      {
+        "num": 45,
+        "q": "Gooryaanku xagee ayuu ku noolyahay  ?",
+        "a": "gooryaanku waxa uu ku noolyahay mindhicirada iyo uurkujirta digaagga."
+      },
+      {
+        "num": 46,
+        "q": "Maxaa lagu gartaa digaaggadda marka ay cuq tahay ?",
+        "a": "Digaaggadda marka ay cuq tahay waxa lagu garłaa dabeecadaha soo socda :  In ay wax ukun ahi dhalayn inta ay cuq tahay.  Waqti ilaa 21 maalmood bay ku qaadataa.  Waxay dareentaa wareer.  Waxay soo saartan cod gaar ah oo lagu aqoonsado in ay cuq tahay IWM"
+      },
+      {
+        "num": 47,
+        "q": "Tiri dhammaan cudurada ku dhaca digaagga ?",
+        "a": "Dhammaan cudurrada ku dhaca digaagga waxaa ka mid ah : B: Niyuu Kastal. T: Bronkiitada. J: Daacuunka. X: Tiifowga digaagga. Kh: Asbergilosiska."
+      },
+      {
+        "num": 48,
+        "q": "Sheeg habka ugu wanaagsan ee gooryaanka loogu hortagi karo ?",
+        "a": "Habka ugu wanaagsan ee gooryaanka loogu hortagi karo waa iyada oo lagu dadaalo nadaafadda guud ee xereda digaagga."
+      },
+      {
+        "num": 49,
+        "q": "Sheeg ujeeddada loo dhaqdo digaaggu ?",
+        "a": "ujeeddada loo dhaqdo digaaggu waa in laga helo hilib iyo ukun."
+      },
+      {
+        "num": 50,
+        "q": "Maxaa looga hortegi karaa deris kunoolayaasha ku nool digaagga ?",
+        "a": "waxaa looga hortegi karaa deris kunoolayaasha ku nool digaagga nadaafad, buufin iyo dawooyin ku habboon."
+      },
+      {
+        "num": 51,
+        "q": "Sheeg deris ku noolayaasha ugu caansan digaagada ?",
+        "a": "darisku noolayaasha digaagga waa ay badan yihiin waxaa ugu caansan :  Huunyada.  Gooryaanka."
+      },
+      {
+        "num": 52,
+        "q": "Hadii 5 digaag midiiba dhasho maalintii hal (1) ukun oo qiimaheedu yahay 5000 Sh.so. Qarasha maalintii laga helaayo waa imisa ?",
+        "a": "- 5 digaag x 1 ukun = 5 ukun maalintii - Qiimaha  1ukun = 5000 Sh.so - 5 x 5000 Sh.so = 25,000 Sh.so"
+      }
+    ]
+  },
+  "13": {
+    "title": "# Cutubka 13aad : Walxaha iyo Astaamahooda",
+    "questions": [
+      {
+        "num": 1,
+        "q": "Wan maxay curiye ?",
+        "a": "Curiye waa qaabka ugu yar ee ay walaxi u jiri karto."
+      },
+      {
+        "num": 2,
+        "q": "Muxuu kasameysan yahay curiyaha ?",
+        "a": "Hal nooc oo atamyo ah."
+      },
+      {
+        "num": 3,
+        "q": "Maxay ka kooban yihiin wakax kasta oo innagu xeeran ?",
+        "a": "Waxay ka kooban yihiin curiyaal."
+      },
+      {
+        "num": 4,
+        "q": "Waa maxay atam ?",
+        "a": "atamku waa walaxda ugu yare ee curiyaha kaas oo weli leh ama sita astaamihii kiimikaad ee curiyuhu lahaa."
+      },
+      {
+        "num": 5,
+        "q": "Waa maxay tiro atam ?",
+        "a": "Tiro atamku waa tirade borotoonnada eek u jira bu'da atamka curiyaha."
+      },
+      {
+        "num": 6,
+        "q": "Xagee lagu qoraa tiro atam ?",
+        "a": "Tiro atamka waxaa lagu qoraa dhanka hoose ee bidixda sumadda curiyaha."
+      },
+      {
+        "num": 7,
+        "q": "Waa maxay iskujirka ay ka kooban hawada ?",
+        "a": "Naaytaroojiin , Oksijiin , Aargoon iwm."
+      },
+      {
+        "num": 8,
+        "q": "Immisa curiye ayaa si dabiici ah loo helaa ?",
+        "a": "92 kamid ah ayaa loo helaa si dabiici ah"
+      },
+      {
+        "num": 9,
+        "q": "Qor curiyashaan sumadooda iyo boqoleydooda ?",
+        "a": "No Curiye Sumad Boqolleey 1 Oksijiin O 46.6 % 2 Silikoon Si 27.7 % 3 Aluminiyam Al 8.1 % 4 Xadiid Fe 5.0 % 5 Kaalsiyam Ca 3.6 % 6 Soodiyam Na 2.6 % 7 Botaasiyam K 2.6 % 8 Magniisiyam Mg 2.00 %"
+      },
+      {
+        "num": 10,
+        "q": "Sheeg tirada ay yihiin curiyaasha ugu  caansan ay gaari karan ?",
+        "a": "Waa 40 curiyaal ah"
+      },
+      {
+        "num": 11,
+        "q": "Was maxay iskudhis ?",
+        "a": "iskasdhisku waa walax ka sameysan labo curiye iyo ka badan oo si kiimikaad isula falgalay"
+      },
+      {
+        "num": 12,
+        "q": "Iskudhiska uu biyaha kasameysan yahay waa immisa curi ?",
+        "a": "Waa labo curi oo kala ah : - Haydarojiin iyo Oksijiin."
+      },
+      {
+        "num": 13,
+        "q": "Waa maxay iskujir ?",
+        "a": "Iskujir waa isu gaynta labo walxood iyo ka badan, walxahaas oo weli sita ama leh astaamahoodii hore oo aan si kiimikaad isugu xirnayn."
+      },
+      {
+        "num": 14,
+        "q": "Maxay ka samysan yihiin biyaha badda ?",
+        "a": "Biyaha baduhu inta badan waxa ay ka sameysan yihiin 2 curiye oo kala ah haydaroojiin iyo oksijuin 96%"
+      },
+      {
+        "num": 15,
+        "q": "Sheeg iskudhiska biyaha?",
+        "a": "Iskudhisku biyaha waa haydarojiin iyo oksijiin."
+      },
+      {
+        "num": 16,
+        "q": "Sheeg magacyada curiyayaasha ugu caansan ee 40 ka ah ?",
+        "a": "Magacyada Curiyayaasha ugu caansan  : No Magaca Curiyaha Sumadda No Magaca Curiyaha Sumadda 1 Almuniyam Al 21 Magniisiyam Mg 2 Aargon Ar 22 Manganiis Mn 3 Arsenic As 23 Meerkuri Hg 4 Baariyam Ba 24 Niyoon Ne 5 Bismas Bi 25 Nikal Ni 6 Boron B 26 Naytroojiin N 7 Baromiin Br 27 Oksijiin O 8 Kaarboon C 28 Foosfoor P 9 Kaalsiyam Ca 29 Balaatiiniyam Pt 10 Kalooriin Cl 30 Bootaashiyam K 11 Karoomiyam Cr 31 Silikoon Si 12 Kubar Cu 32 Silfar ( qalin ) Ag 13 Falooriin F 33 Soodiyam Na 14 Awarm ( dahab) Au 34 Istoronshiyam Sr 15 Hilyam He 35 Salfar N 16 Haydaroojin H 36 Istaanam Sn 17 Xadiid Fe 37 Taanjistan W 18 Ayodhiin I 38 Yuraniyam U 19 Balambam Pb 39 Zinc Zn 20 Liitiyam Li 40 Sirconiyam Zr"
+      }
+    ]
+  },
+  "14": {
+    "title": "# Cutubka 14aad : Habka Cilmibaarista",
+    "questions": [
+      {
+        "num": 1,
+        "q": "Waa maxay cilmi baaris ?",
+        "a": "Cilmi baaristu waa hab nidaamsan oo ay isticmanlaan aqoon yahanada iyo saynisyahanada si ay u helaan xaqiiqda."
+      },
+      {
+        "num": 2,
+        "q": "Waa maxay dariq cilmiyeed ?",
+        "a": "Dariqadda ay maraan saynisyahanadu marka ay sameynayaan baaritaaanka cilmiyeed waxaa la yiraahdaa dariiq cilmiyeed."
+      },
+      {
+        "num": 3,
+        "q": "Sheeg magaca saynisyahnkii ugu horeeyay ee dariiq cilmiyeed qora iyo xilliga uu noolaa.?",
+        "a": "Faransis bakon waxa uuna noolaa inta u dhexeysay 1561 dii ilaa 1626dii"
+      },
+      {
+        "num": 4,
+        "q": "Sheeg shan ka mid ah tilaabooyinka dariiq cilmiyeed ?  in la ogaaado mas'alada  in la baaro mas'alada  in la dejiyo qiyaas cilmiyeed  in la fuliyo tijaabo  in la sameeyo falanqeyn iyo gebogebo",
+        "a": ""
+      },
+      {
+        "num": 5,
+        "q": "Tijaabadu maxay u baahantahay ?",
+        "a": "in la diyaariyo islamarkaasna la qorsheeyo"
+      },
+      {
+        "num": 6,
+        "q": "Sheeg seddax qodob oo la tixgeliyo ka hor inta aanan la sameyn tijaabada ?  caddee marka hore ujedada tijaabada  cadee sidoo kale agabka tijaabada.   kuamar ardada in ay dhaqdaan gacmaha kadib marka dhamaystaan tijaabada.",
+        "a": ""
+      },
+      {
+        "num": 7,
+        "q": "Si loo fuliyo tijaabada maxaa loo baahan yahay ?",
+        "a": "Muunad dhir , xayawaan ama kiimiko."
+      },
+      {
+        "num": 8,
+        "q": "Maxaa ka mid ah xayawaannada nool ee lagu xanaaneeyo qolka sheybaarka ?",
+        "a": "Dooliga , bakeylaha , raha iyo diinka."
+      },
+      {
+        "num": 9,
+        "q": "Sheeg qaar kamid ah agabyada tijaabada ee saynisyahaannadu ay isticmaalaan ?",
+        "a": "Qalabka qalliinka xayawaanada lagu sameeyo iyo sidoo kale loo isticmaalo in wax lagu jarto Gmail : Mohamedsayidali083@gmail.com                                                                    Tell : +252613915311"
+      }
+    ]
+  }
+}

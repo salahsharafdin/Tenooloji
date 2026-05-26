@@ -1,0 +1,385 @@
+Found 64 potential major mismatches:
+
+[Chapter 1] Q18 (Q-Sim: 1.00, A-Sim: 0.25)
+  JS Question:  Sheeg siyaabaha ay ku gudubto duumada ?
+  PDF Question: Sheeg siyaabaha ay ku gudubto duumada ?
+  JS Answer:    Dhiig shubid, Deeq xubneed sida beerka, Cirbadaha oo lala wadaago, iyo Hooyada uurka leh oo u gudbisa ilmaha.
+  PDF Answer:   B) Qof qaba duumada oo dhiig laga shubo laguna shubo mid ka fayow cudurka T) Xubnaha oo la’iskugu deeqo sida beerka iwm J) Cirbadaha oo lala wadaago qofka qaba cudurka X) Hooyada uurka leh hadey qabto waxey ugudbin kartaa ilmaha uur jiifka
+
+[Chapter 1] Q26 (Q-Sim: 1.00, A-Sim: 0.33)
+  JS Question:  Maxaa lagu daweeyaa cudurka waraabowga ?
+  PDF Question: Maxaa lagu daweeyaa cudurka waraabowga ?
+  JS Answer:    Jeermis dilayaasha loo yaqaan ANTIBIOTICS (ANTIBAAYOOTIKIS).
+  PDF Answer:   ANTIBIOTICS ( ANTIBAAYOOTIKIS)
+
+[Chapter 1] Q47 (Q-Sim: 1.00, A-Sim: 0.26)
+  JS Question:  Sheeg siyaabaha lagu kala qaado aydhiska ?
+  PDF Question: Sheeg siyaabaha lagu kala qaado aydhiska ?
+  JS Answer:    Hooyada uurka leh, dhiig qof qaba oo la shubo, xubno la isku deeqo, iyo cirbad qof qaba isticmaalay.
+  PDF Answer:    Hooyada qabta cudurka aydhiska waxey ugudbin kartaa ilmaha uurka kijira iyo xiliga ay nuujinayso .  Hadii dhiig qof aydhis qawo lagu shubo qof caafimaad qabo fayraska wuxuu ugudbi karaa qofka caafimaadka qabay .  In xubno la iskugu deeqo .  Cirbad uu isticmaaley qof aydhis qaba
+
+[Chapter 1] Q49 (Q-Sim: 1.00, A-Sim: 0.22)
+  JS Question:  Sidee lagu xakameyn karaa aydhiska ?
+  PDF Question: Sidee lagu xakameyn karaa aydhiska ?
+  JS Answer:    Fogaanshaha galmada xaaraanta, inaan la isticmaalin cirbado horay loo isticmaalay, iyo hubinta dhiiga bukaanka lagu shubayo.
+  PDF Answer:   B) In laga fogaado galmada xaaraanta T) In aan la,isticmaalin cirbadaha iyo caagadaha dadka kale isticmaaleen J) In aa la isla isticmaalin qalabka lagu xiirto kuwa loo isticmaalo Dhalmada , Ilkaha , Cidiyo jarka X) In lahubiyo dhiiga lagu shubaayo bukaanka
+
+[Chapter 1] Q50 (Q-Sim: 1.00, A-Sim: 0.33)
+  JS Question:  Sheeg magaca daawada loo adeegsado aydhiska ?
+  PDF Question: Sheeg magaca daawada loo adeegsado aydhiska ?
+  JS Answer:    Aydhiska ilaa hadda daawo rasmi ah oo bogsiisa malahan.
+  PDF Answer:   Aydhiska daawo malahan
+
+[Chapter 2] Q2 (Q-Sim: 1.00, A-Sim: 0.17)
+  JS Question:  Immisa biyo ah dhulka ?
+  PDF Question: Immisa biyo ah dhulka ?
+  JS Answer:    Dhulka waxaa biyo ka ah 70%.
+  PDF Answer:   70%
+
+[Chapter 2] Q3 (Q-Sim: 1.00, A-Sim: 0.17)
+  JS Question:  Immisa barri ah dhulka ?
+  PDF Question: Immisa barri ah dhulka  ?
+  JS Answer:    Dhulka waxaa barri ka ah 30%.
+  PDF Answer:   30%
+
+[Chapter 2] Q4 (Q-Sim: 1.00, A-Sim: 0.17)
+  JS Question:  Sheeg boqoleyda biyaha dhanaan ee dhulka ?
+  PDF Question: Sheeg boqoleyda biyaha dhanaan ee dhulka ?
+  JS Answer:    Biyaha dhanaan ee badaha waa 97%.
+  PDF Answer:   97%
+
+[Chapter 2] Q5 (Q-Sim: 1.00, A-Sim: 0.12)
+  JS Question:  Sheeg boqoleyda biyaha macaan ee dhulka ?
+  PDF Question: Sheeg boqoleyda biyaha macaan ee dhulka  ?
+  JS Answer:    Biyaha macaan ee dhulka waa 1% oo kaliya.
+  PDF Answer:   1%
+
+[Chapter 2] Q17 (Q-Sim: 1.00, A-Sim: 0.25)
+  JS Question:  Immisa cusbo ah ayaa ku jirto halkii liitar oo biyaha badda ah ?
+  PDF Question: Immisa cusbo ah ayaa ku jirto halkii liitar oo biyaha badda ah ?
+  JS Answer:    Waxaa ku jirta 494 garaam oo cusbo ah.
+  PDF Answer:   494 garaam
+
+[Chapter 3] Q10 (Q-Sim: 1.00, A-Sim: 0.35)
+  JS Question:  Sheeg xubnaha taranka ee dheddiga naasleyda ?
+  PDF Question: Sheeg xubnaha taranka ee dheddiga naasleyda ?
+  JS Answer:    Laba ugxaan-side, Laba marin-ugxaaneed, Ilmo galeen, iyo Xubinta galmada.
+  PDF Answer:   Xubnaha dhedhiga naasleydu waa  Laba ugxaan sidayaaal   Laba marin ugxaaneed   Ilmo galeen   Xubinta galmada Ugxan sidayaal Marin ugxaneed Marinka Dhalmada Dhuunta Ilma galeenka Ilmo galeen
+
+[Chapter 3] Q15 (Q-Sim: 1.00, A-Sim: 0.17)
+  JS Question:  Xagee uu ka helaa uurjiifka cuntada ?
+  PDF Question: Xagee uu ka helaa uurjiifka cuntada ?
+  JS Answer:    Wuxuu ka helaa Xudunta (Umbilical cord).
+  PDF Answer:   Xudunta
+
+[Chapter 3] Q20 (Q-Sim: 1.00, A-Sim: 0.25)
+  JS Question:  Sheeg saddex kamid ah calaamadaha qaangaarka ee gabdhaha?
+  PDF Question: Sheeg saddex kamid ah calaamadaha qaangaarka ee gabdhaha?
+  JS Answer:    Ugxaan sidayaasha oo ugxaan soo daaya, dhiigga caadada oo bilaabma, iyo sinaha oo ballaarta.
+  PDF Answer:   Calaamadaha qaangaarka ee gabdhaha waxaa kamid ah :  Ugxaan sidayaasha ayaa ugxaan soo daaya   Waxaa yimaada dhiig lagu magacaabo caado  Sinaha ayaa ballaarta
+
+[Chapter 3] Q23 (Q-Sim: 1.00, A-Sim: 0.33)
+  JS Question:  Goormuu tarmaa raha ?
+  PDF Question: Goormuu tarmaa raha ?
+  JS Answer:    Xilli roobeedka marka biyo la helo.
+  PDF Answer:   Xilli roobeedka
+
+[Chapter 3] Q25 (Q-Sim: 1.00, A-Sim: 0.17)
+  JS Question:  Xagee uu ka dhacaa taranka raha ?
+  PDF Question: Xagee uu ka dhacaa taranka raha ?
+  JS Answer:    Dibada jirka ee biyaha dhexdiisa.
+  PDF Answer:   Dibada raha
+
+[Chapter 3] Q27 (Q-Sim: 1.00, A-Sim: 0.25)
+  JS Question:  Muxuu dhalaa raha ?
+  PDF Question: Muxuu dhalaa raha ?
+  JS Answer:    Rahu wuxuu dhalaa Ukun.
+  PDF Answer:   Ukun
+
+[Chapter 3] Q32 (Q-Sim: 1.00, A-Sim: 0.20)
+  JS Question:  Xagee ka neefsataa kaluumada ?
+  PDF Question: Xagee ka neefsataa kaluumada ?
+  JS Answer:    Waxay ka neefsadaan Waafiyadood (Gills).
+  PDF Answer:   Waafiyadood
+
+[Chapter 3] Q35 (Q-Sim: 1.00, A-Sim: 0.33)
+  JS Question:  Maxun dhalaa kaluunka ?
+  PDF Question: Maxun dhalaa kaluunka ?
+  JS Answer:    Wuxuu dhalaa Ukun.
+  PDF Answer:   Ukun
+
+[Chapter 3] Q41 (Q-Sim: 1.00, A-Sim: 0.18)
+  JS Question:  Sheeg farqiga u dhaxeeyo kaluunka lafleyda ah iyo kan carjawga ah ?
+  PDF Question: Sheeg farqiga u dhaxeeyo kaluunka lafleyda ah iyo kan carjawga ah ?
+  JS Answer:    Lafleyda waxay leeyihiin lafo adag, halka carjawleydu ay leeyihiin lafo jilicsan oo carjaw ah.
+  PDF Answer:   * Llafley waxa uu leeyahay lafo adag * carjawga waxa uu leeyahay lafo jilicsan
+
+[Chapter 3] Q42 (Q-Sim: 1.00, A-Sim: 0.33)
+  JS Question:  Xagee buu ku tarmaa kaluunka ?
+  PDF Question: Xagee buu ku tarmaa kaluunka ?
+  JS Answer:    Biyaha dhexdooda.
+  PDF Answer:   Biyaha dhexdood
+
+[Chapter 3] Q43 (Q-Sim: 1.00, A-Sim: 0.11)
+  JS Question:  Ma daryeelaa kaluunka ubadkiisa ?
+  PDF Question: Ma daryeelaa kaluunka ubadkiisa ?
+  JS Answer:    Guud ahaan Maya, laakiin noocyo gaar ah ayaa daryeela.
+  PDF Answer:   Maya
+
+[Chapter 3] Q44 (Q-Sim: 1.00, A-Sim: 0.20)
+  JS Question:  Waa kuma kaluunka xanaaneeya ubadkiisa ?
+  PDF Question: Waa kuma kaluunka xanaaneeya ubadkiisa ?
+  JS Answer:    Kaluunka loo yaqaano Tilaabiye (Tilapia).
+  PDF Answer:   Tilaabiye
+
+[Chapter 3] Q48 (Q-Sim: 1.00, A-Sim: 0.33)
+  JS Question:  Maxay dhalaan shimbiruhu ?
+  PDF Question: Maxay dhalaan shimbiruhu ?
+  JS Answer:    Waxay dhalaan Ukumo.
+  PDF Answer:   Ukumo
+
+[Chapter 3] Q49 (Q-Sim: 1.00, A-Sim: 0.00)
+  JS Question:  Xagee ay ku dhalaan shimbiruhu ?
+  PDF Question: Xagee ay ku dhalaan shimbiruhu ?
+  JS Answer:    Waxay ku dhalaan Buulasha ay dhistaan.
+  PDF Answer:   Buulaha
+
+[Chapter 3] Q52 (Q-Sim: 1.00, A-Sim: 0.33)
+  JS Question:  Sheeg waxtarka uu leeyahay huurinta ukumaha ?
+  PDF Question: Sheeg waxtarka uu leeyahay huurinta ukumaha ?
+  JS Answer:    Iney helaan heerkul ku habboon oo uu ku dhex koro jiifku.
+  PDF Answer:   Iney helaan heer kul ku habboon
+
+[Chapter 3] Q54 (Q-Sim: 1.00, A-Sim: 0.14)
+  JS Question:  Ma isku mid baa muddada ukun dilaacinta ee shimbiraha ?
+  PDF Question: Ma isku mid baa muddada ukun dilaacinta ee shimbiraha ?
+  JS Answer:    Maya, way ku kala duwan yihiin noocyada kala duwan.
+  PDF Answer:   Maya
+
+[Chapter 3] Q56 (Q-Sim: 1.00, A-Sim: 0.35)
+  JS Question:  Sheeg hababka ukun dilaacinta shimbiraha ?
+  PDF Question: Sheeg hababka ukun dilaacinta shimbiraha ?
+  JS Answer:    Habka digaaga cuqday oo ku fadhiisata, iyo in la geliyo makiinada ukun dilaaciyaasha ah.
+  PDF Answer:   * Habka digaaga cuqday ama xafashtay oo kudul fadhiisata ukunta * hab in ukunta lagaliyo makiinada loo yaqaano ukun dilaaciyaal
+
+[Chapter 3] Q58 (Q-Sim: 1.00, A-Sim: 0.12)
+  JS Question:  Ma xanaaneeyaan shimbiruhu ubadkooda?
+  PDF Question: Ma xanaaneeyaan shimbiruhu ubadkooda?
+  JS Answer:    Haa, way xanaaneeyaan oo cunto ayey u keenaan.
+  PDF Answer:   haa
+
+[Chapter 3] Q59 (Q-Sim: 1.00, A-Sim: 0.25)
+  JS Question:  Sidee ayay ku tarmaan shimbiruhu?
+  PDF Question: Sidee ayay ku tarmaan shimbiruhu?
+  JS Answer:    Habka Taran jinsiyeedka.
+  PDF Answer:   Taran jinsiyeed
+
+[Chapter 4] Q10 (Q-Sim: 1.00, A-Sim: 0.25)
+  JS Question:  Xagee laga helaa tamarta ?
+  PDF Question: Xagee laga helaa tamarta ?
+  JS Answer:    Waxaa laga helaa Cuntada.
+  PDF Answer:   Cuntada
+
+[Chapter 4] Q14 (Q-Sim: 1.00, A-Sim: 0.06)
+  JS Question:  Sheeg dhirta iyo Xayawaanada waxa ay ku kala duwan yihiin ?
+  PDF Question: Sheeg dhirta iyo Xayawaanada waxa ay ku kala duwan yihiin ?
+  JS Answer:    Dhirta masocoto oo cuntadeeda ayay sameysataa, halka xayawaanku socdo oo uusan cuntadiisa sameysan karin.
+  PDF Answer:   # Dhirta # Xayawaanada 1- Dhirta masocoto 1- Xayawaanka wuu socdaa 2- Dhirta iyaga ayaa sameysta cuntadooda 2- Xayawaanka masameysan karaan cuntadooda 3- Dhirta koritaankeeda ma xadidna 3- Xayawaanka koritaankiisa wuu xadidan yahay
+
+[Chapter 4] Q18 (Q-Sim: 1.00, A-Sim: 0.25)
+  JS Question:  Waa maxay soo saare ?
+  PDF Question: Waa maxay soo saare ?
+  JS Answer:    Waa dhirta (maadaama ay iyadu cuntadeeda soo saarto).
+  PDF Answer:   Waa dhirta
+
+[Chapter 4] Q22 (Q-Sim: 1.00, A-Sim: 0.20)
+  JS Question:  Yaa ka caawiya dhirta falxida?
+  PDF Question: Yaa ka caawiya dhirta falxida?
+  JS Answer:    Xayawaanada (sida cayayaanka iyo shimbiraha).
+  PDF Answer:   Xayawaanada.
+
+[Chapter 4] Q24 (Q-Sim: 0.50, A-Sim: 0.00)
+  JS Question:  Sheeg noocyada quudashada xayawaanada ?
+  PDF Question: Sheeg noocyada quudashada xayawaanada ?  Dhir cune   Hilib cune   Dhir iyo hilib cune
+  JS Answer:    Dhir cune (Herbivore), Hilib cune (Carnivore), iyo Dhir & hilib cune (Omnivore).
+  PDF Answer:   
+
+[Chapter 5] Q5 (Q-Sim: 1.00, A-Sim: 0.22)
+  JS Question:  Sheeg shan kamid ah qalabyada lagu cabiro cimilo gooreedka cabirkooda ?
+  PDF Question: Sheeg shan kamid ah qalabyada lagu cabiro cimilo gooreedka cabirkooda ?
+  JS Answer:    Xawaare-beegga, Roob-beegga, Huur-beegga, Kulbeegga, iyo Cadaadis-beegga.
+  PDF Answer:   Qalabyada lagu cabiro cimilo gooreedka cabirkooda? Qalabka Cabirka 1 Xawaare beegga Dabaysha 2 Roob-beegga Roobka 3 Huur-beegga Qooyaanka hawada ama uumiga Kulbeegga Heerkulka 5 Cadaadis beegga Cadaadiska hawada
+
+[Chapter 6] Q16 (Q-Sim: 1.00, A-Sim: 0.31)
+  JS Question:  Sheeg kabaalka waxa uu ka kooban yahay?
+  PDF Question: Sheeg kabaalka waxa uu ka kooban yahay?
+  JS Answer:    Sabarad (dusha fidsan), Taako/barkin (barta dhexe), Karti taag (xoogga), iyo Rarka (culayska).
+  PDF Answer:   kabaalku waxa un ka kooban yahay afar qaybood :  Sabarad: waa dusha fidsan oo ka sameysan bir ama alwaax.  Taako(barkin): waa barta dhexe ee waxa wareejisa  Karti taag: waa xoogga loo adeegsado in walxaha culus lagu qaado.  Rarka waa: waa culayska walaxda la dhaqaajinayo.
+
+[Chapter 6] Q26 (Q-Sim: 1.00, A-Sim: 0.35)
+  JS Question:  Sheeg tusaalooyinka khafiyadaha?
+  PDF Question: Sheeg tusaalooyinka khafiyadaha?
+  JS Answer:    Wiishashka, Culeys qaadayaasha kaar glift (foorliif), iyo ceelasha biyaha laga soo saaro.
+  PDF Answer:   tusaalooyinka khafiyadaha waxaa kamid ah.  Wiishashka.  Culeys qaadayaasha kaar glift(foorliif).  Garan garta ceelasha biyaha cajaladda.  Qalabyada jirdhiska. yar
+
+[Chapter 7] Q9 (Q-Sim: 0.60, A-Sim: 0.00)
+  JS Question:  Sawirka isha aadanaha maxuu muujinayaa ?
+  PDF Question: Sawirka isha aadanaha ?
+  JS Answer:    Wuxuu muujinayaa qaybaha kala duwan ee isha sida xuubka, wiilka, bikaacda, iyo xidid dareenka.
+  PDF Answer:   
+
+[Chapter 7] Q16 (Q-Sim: 1.00, A-Sim: 0.32)
+  JS Question:  Waa maxay bikaacada isha ?
+  PDF Question: Waa maxay bikaacada isha  ?
+  JS Answer:    Bikaacada isha waa bikaacada aan u adkeyn ee ilayska kulmisa (Lens).
+  PDF Answer:   Bikaacada isha waa bikaacada aan u adkeyn sida midda kaamirada. Bikaacda isha Bu’da Muruqyada isha Xidid dareenka
+
+[Chapter 7] Q22 (Q-Sim: 1.00, A-Sim: 0.29)
+  JS Question:  Is barbardhig isha iyo kaamirada bin-daloolka ?
+  PDF Question: Is barbardhig isha iyo kaamirada bin-daloolka ?
+  JS Answer:    Kala duwanaanshuhu waa in ishu leedahay maskax toosisa sawirka halka kaamirada bin-daloolka aysan lahayn wax toosiya.
+  PDF Answer:   Kaamirada bin-daloolka iyo isha wax ay labaduba soo saaraan sawir foorara, hase yeeshee sawirka foorara oo ay ishu sameyso maskaxda ayaa ka dhigta mid toosan, halka kaamirada bin- daloolka aysan lahayn wax toosiya.
+
+[Chapter 9] Q4 (Q-Sim: 1.00, A-Sim: 0.33)
+  JS Question:  Sidee kulka loo kaydin karaa ?
+  PDF Question: Sidee kulka loo kaydin karaa ?
+  JS Answer:    in la isticmaalo Soolarada, Tannuusyada, iyo Kululeysada.
+  PDF Answer:   Kulku waxaa loo keydin karaa habab kala duwan oo ay ka mid yihiin in la isticmaalo Soolarada , Tannuusyada iyo Kululeysada IWM.
+
+[Chapter 10] Q1 (Q-Sim: 1.00, A-Sim: 0.20)
+  JS Question:  Waa maxay dikhowga carrada ?
+  PDF Question: Waa maxay dikhowga carrada ?
+  JS Answer:    dikowga carrada waa wasakhaynta carrada ee walxo waxyeelo leh.
+  PDF Answer:   dikowe carrada war wasakhaynta carrada
+
+[Chapter 10] Q5 (Q-Sim: 1.00, A-Sim: 0.11)
+  JS Question:  Sheeg seddax ka mid ah qashinka ka dhasha si dabiiciga ah ?
+  PDF Question: Sheeg seddax ka mid ah qashinka ka dhasha si dabiiciga ah ?
+  JS Answer:    Foolkaanooyinka, Dhul gariirka, iyo Fatahaadaha biyaha.
+  PDF Answer:   Waxaa kamid ah kuwaan so socda:-  Foolkaanooyinka : wa qarax kadhaca dhulka hoostiisa.  Dhul gariirka : wa dhacdo dabiici ah sababto bur burka dhulka  Fatahaadaha : webiyada markay buux dhaafiyaan ama barafka buuraha ku da'a markay dhalaalaan waxaa kadhasha fatahaad.
+
+[Chapter 10] Q8 (Q-Sim: 1.00, A-Sim: 0.30)
+  JS Question:  Saddex kasheeg habaka kala duwan ée dhirta lagu daryeelo ?
+  PDF Question: Saddex kasheeg habaka kala duwan ée dhirta lagu daryeelo ?
+  JS Answer:    La dagaalanka xaalufinta, beerida dhir cusub, iyo bacriminta carrada.
+  PDF Answer:   Hababka kala duwan ee dhirta lagu daryeeli karo waxa kamid ah :  La dagaalanka xaalufinta dhirta  Beerida dhir cusub.  Bacriminta dhirta iyo in laga ilaaliyo dhibaatooyinka soo gaari kara
+
+[Chapter 11] Q4 (Q-Sim: 1.00, A-Sim: 0.15)
+  JS Question:  Sheeg noocyada birlabta mid walbane qeex ?
+  PDF Question: Sheeg noocyada birlabta mid walbane qeex ?
+  JS Answer:    birlab rasmi ah (ma daadato), birlab aan rasmi ahayn (way daadataa), iyo birlab danabeed.
+  PDF Answer:   Noocyada birlabta waa saddex waxayna kala yihiin :  birlab rasmi ah.: waa kuwa birlabnimadda haysta muddo dheer kadib marka la birlabeeya:  birlab aan rasmi ahayn : waa kuwa birlabnimadada lumiya mudda kooban ka dib marka la birlabeeyo.  birlab danabeed : waa kuwa  birlabnimadeedu ay ku xirantahay danabka.
+
+[Chapter 11] Q11 (Q-Sim: 1.00, A-Sim: 0.35)
+  JS Question:  Maxaa loo adeegsan karaa Birlab-danabeedka ?
+  PDF Question: Maxaa loo adeegsan karaa Birlab-danabeedka?
+  JS Answer:    wiishaska kala saara birta xadridka iyo dhaqaajinta walxaha culus.
+  PDF Answer:   Birlab-danabeedka waxaa loo adeegsan karaan in laga sameeyo wiishaska kala saaro birta xadridka iyo biraha kale sidoo kale waxaa loo adeegsan karaa dhaqaajinta walxaha culus.
+
+[Chapter 11] Q14 (Q-Sim: 1.00, A-Sim: 0.25)
+  JS Question:  Birlab danabeedku xaggee bey ka dhalataa ?
+  PDF Question: Birlab danabeedku xaggee bey ka dhalataa?
+  JS Answer:    waxa ay ka dhashataa maayada danabka ee dhexmarta silig lagu duubay bir.
+  PDF Answer:   waxa ay ka dhashataa maayada danabka , waxa ayna leedahay adeegsi badan sida wishka qaada biraha culus, codbaahiyaasha iyo sameecada.
+
+[Chapter 12] Q1 (Q-Sim: 1.00, A-Sim: 0.34)
+  JS Question:  Waa maxay digaaggu ?
+  PDF Question: Waa maxay digaaggu ?
+  JS Answer:    digaaggu waa xayawaanka ugu badan ee dabjoogga ah ee laga helo ukun iyo hilib.
+  PDF Answer:   diganggu waa xayawaanka ugu badan uguna ballaaran ee dabjoogga loo yaqano ama dadka la nool waana nooc ka mid ah shimbiraha baaalal leh aan duulin lagana helo ukun iyo hilib
+
+[Chapter 12] Q2 (Q-Sim: 1.00, A-Sim: 0.26)
+  JS Question:  Sheeg hababka loo dhaqan karo digaagga ?
+  PDF Question: Sheeg hababka loo dhaqan karo digaagga ?
+  JS Answer:    Habka dibad joogga, habka xero ku haynta xor ah, iyo habka xero aan xor ahayn.
+  PDF Answer:   hababka loo dhaqdo digaagada waxaa kamid ah :  Habka dibad joogga  Hab dhaqashada in lagu dhex dhaqo xero leh dhaqdhaqaaq xor ah  Hab dhaqashada in lagu dhex dhaqo xero aan lahayn dhaqdhqaaq xor ah
+
+[Chapter 12] Q6 (Q-Sim: 1.00, A-Sim: 0.32)
+  JS Question:  Hadii digaaggii lagu haayo xerooyinka aan lahayn dhaqdhaqaaq xor ah maxaa ka dhalan karo ?
+  PDF Question: Hadii digaaggii lagu haayo xerooyinka aan lahayn dhaqdhaqaaq xor ah maxaa ka dhalan karo ?
+  JS Answer:    waxay keeni kartaa cudurro cusub oo ku dhaca digaagga iyo dhaqdhaqaaq la'aan.
+  PDF Answer:   qasaaraha ka dhalan karto xero ku haynta digaagga in ay soo kordhisay cudurro cusub oo ku dhaca digaagga oo ay keentay dhaqdhaqaaq la'aanta.
+
+[Chapter 12] Q7 (Q-Sim: 1.00, A-Sim: 0.25)
+  JS Question:  Sheeg noocyada dhaqashada digaagga iyo ujeedooyinka loo dhaqdo nooc walba ?
+  PDF Question: Sheeg noocyada dhaqashada digaagga iyo ujeedooyinka loo dhaqdo nooc walba ?
+  JS Answer:    Hilboolayaal (in laga helo hilib) iyo Ukun dhalayaal (in laga helo ukun).
+  PDF Answer:   dhaqashada digaagga waxa loo qaybiyaa laba nooc oo kala ah :  Hilboolayaal : Ujeeda ugu wayn ee loo dhaqdo hilboolayaasha waxa ay noqonaysaa in laga helo hilib.  Ukun dhalayaal : Ujeeda ugu wayn ee loo dhaqdo ukun dhalayaasha waxa ay noqonaysaa in laga hela ukun
+
+[Chapter 12] Q10 (Q-Sim: 1.00, A-Sim: 0.29)
+  JS Question:  Digaaga loo dhaqdo hilibka dhaqsi miyey ku qaan gaaraan ?
+  PDF Question: Digaaga loo dhaqdo hilibka dhaqsi miyey ku qaan gaaraan ?
+  JS Answer:    Waa maya (marka loo eego noocyada qaar).
+  PDF Answer:   Waa maya.
+
+[Chapter 12] Q12 (Q-Sim: 1.00, A-Sim: 0.18)
+  JS Question:  Maxay ku xirantahay tirade ukunta digaagga ?
+  PDF Question: Maxay ku xirantahay tirade ukunta digaagga ?
+  JS Answer:    Waqtiga boojaashu bilowday ukunta, habka dhagashada, iyo sinjiga digaagga.
+  PDF Answer:   Tirada ukunta ee digaagga waxa ay ku xeran tahay seddax shay :  Waqtiga boojaashu bilowday ukunta (da'da qaangaarka)  Habka dhagashada ma mid sareeyaa oo wax kasto oo ay u baahato digaaggu waa ay heshaa miyaa mase waa mid hooseyo  Sinjiga digaagga ay ka soo jeedo mid hormarsan baa mase waa mid aan hormarsanayn oo cuq (xafash) ah
+
+[Chapter 12] Q19 (Q-Sim: 1.00, A-Sim: 0.31)
+  JS Question:  Sheeg qaybaha huurinta ?
+  PDF Question: Sheeg qaybaha huurinta ?
+  JS Answer:    Huurinta dabiiciga ah, iyo Huurinta aaladeed.
+  PDF Answer:   Qaybaha huurinta waa laba qaybood waxa ayna kala yihiin :  Huurinta dabiiciga ah.  Huurinta aaladeed.
+
+[Chapter 12] Q22 (Q-Sim: 1.00, A-Sim: 0.08)
+  JS Question:  Sheeg shuruudaha lagama maarmaanka u ah huurinta aaladeed ?
+  PDF Question: Sheeg shuruudaha lagama maarmaanka u ah huurinta aaladeed ?
+  JS Answer:    Ukun bacrimisan, heerkulka mashiinka, hawo isdhaafka, iyo nadaafadda mashiinka.
+  PDF Answer:   shuruudaha lagama maarmaanka u ah huurinta aaladeed waxaa ka mida :  In la hubiyo ukunta la rabo in la dilaaciyo inay tahay mid bacrimisan oo digaagadda ukunta dhashay inta aysan qolofta saarin ukunta ay ku dartay biyihii diiqa (Shahwada)  In la hubiyo qaabka ukunto loo soo kaydiyay inta aanan mashiinka la gelin.  In la miisaamo ukunta culayskeeda.  In la fiiriyo tayada ukunta qolofkeeda.  Hiddesidaha ay ximbaarsan tahay.  Cudur la 'aanta ukunta.  Heer kulka mashiinka.  Hawo is dhaafka mashiinka ġudihiisa.  Nadaafadda iyo uumiga mashiinka.
+
+[Chapter 12] Q25 (Q-Sim: 1.00, A-Sim: 0.29)
+  JS Question:  Maxaa lagu gartaa digaaggadda marka ay cuq tahay ?
+  PDF Question: Maxaa lagu gartaa digaaggadda marka ay cuq tahay ?
+  JS Answer:    In aysan wax ukun ah dhalayn, waqti 21 maalmood ah ay qaadato, iyo cod gaar ah.
+  PDF Answer:   Digaaggadda marka ay cuq tahay waxa lagu garłaa dabeecadaha soo socda :  In ay wax ukun ahi dhalayn inta ay cuq tahay.  Waqti ilaa 21 maalmood bay ku qaadataa.  Waxay dareentaa wareer.  Waxay soo saartan cod gaar ah oo lagu aqoonsado in ay cuq tahay IWM
+
+[Chapter 12] Q26 (Q-Sim: 1.00, A-Sim: 0.33)
+  JS Question:  Tiri dhammaan cudurada ku dhaca digaagga ?
+  PDF Question: Tiri dhammaan cudurada ku dhaca digaagga ?
+  JS Answer:    Niyuu Kastal, Bronkiitada, Daacuunka, Tiifowga digaagga, iyo Asbergilosiska.
+  PDF Answer:   Dhammaan cudurrada ku dhaca digaagga waxaa ka mid ah : B: Niyuu Kastal. T: Bronkiitada. J: Daacuunka. X: Tiifowga digaagga. Kh: Asbergilosiska.
+
+[Chapter 12] Q30 (Q-Sim: 1.00, A-Sim: 0.15)
+  JS Question:  Sheeg deris ku noolayaasha ugu caansan digaagada ?
+  PDF Question: Sheeg deris ku noolayaasha ugu caansan digaagada ?
+  JS Answer:    Huunyada, iyo Gooryaanka.
+  PDF Answer:   darisku noolayaasha digaagga waa ay badan yihiin waxaa ugu caansan :  Huunyada.  Gooryaanka.
+
+[Chapter 13] Q16 (Q-Sim: 0.29, A-Sim: 0.08)
+  JS Question:  Sheeg magacyada curiyayaasha caanka ah ee sumadahoodu yihiin O, H, Fe, Ca, C ?
+  PDF Question: Sheeg magacyada curiyayaasha ugu caansan ee 40 ka ah ?
+  JS Answer:    O (Oksijiin), H (Haydaroojin), Fe (Xadiid), Ca (Kaalsiyam), C (Kaarboon).
+  PDF Answer:   Magacyada Curiyayaasha ugu caansan  : No Magaca Curiyaha Sumadda No Magaca Curiyaha Sumadda 1 Almuniyam Al 21 Magniisiyam Mg 2 Aargon Ar 22 Manganiis Mn 3 Arsenic As 23 Meerkuri Hg 4 Baariyam Ba 24 Niyoon Ne 5 Bismas Bi 25 Nikal Ni 6 Boron B 26 Naytroojiin N 7 Baromiin Br 27 Oksijiin O 8 Kaarboon C 28 Foosfoor P 9 Kaalsiyam Ca 29 Balaatiiniyam Pt 10 Kalooriin Cl 30 Bootaashiyam K 11 Karoomiyam Cr 31 Silikoon Si 12 Kubar Cu 32 Silfar ( qalin ) Ag 13 Falooriin F 33 Soodiyam Na 14 Awarm ( dahab) Au 34 Istoronshiyam Sr 15 Hilyam He 35 Salfar N 16 Haydaroojin H 36 Istaanam Sn 17 Xadiid Fe 37 Taanjistan W 18 Ayodhiin I 38 Yuraniyam U 19 Balambam Pb 39 Zinc Zn 20 Liitiyam Li 40 Sirconiyam Zr J- J-
+
+[Chapter 14] Q1 (Q-Sim: 1.00, A-Sim: 0.32)
+  JS Question:  Waa maxay cilmi baaris ?
+  PDF Question: Waa maxay cilmi baaris ?
+  JS Answer:    Cilmi baaristu waa hab nidaamsan oo loo maro helitaanka xaqiiqda cusub ama cilmiga.
+  PDF Answer:   Cilmi baaristu waa hab nidaamsan oo ay isticmanlaan aqoon yahanada iyo saynisyahanada si ay u helaan xaqiiqda.
+
+[Chapter 14] Q4 (Q-Sim: 0.36, A-Sim: 0.00)
+  JS Question:  Sheeg shan ka mid ah tilaabooyinka dariiq cilmiyeed ?
+  PDF Question: Sheeg shan ka mid ah tilaabooyinka dariiq cilmiyeed ?  in la ogaaado mas'alada  in la baaro mas'alada  in la dejiyo qiyaas cilmiyeed  in la fuliyo tijaabo  in la sameeyo falanqeyn iyo gebogebo
+  JS Answer:    in la ogaado mas'alada, in la baaro, in la dejiyo qiyaas, in la fuliyo tijaabo, iyo gebogebada.
+  PDF Answer:   
+
+[Chapter 14] Q5 (Q-Sim: 1.00, A-Sim: 0.30)
+  JS Question:  Tijaabadu maxay u baahantahay ?
+  PDF Question: Tijaabadu maxay u baahantahay ?
+  JS Answer:    in la diyaariyo qorshe sugan iyo qalab dhammaystiran.
+  PDF Answer:   in la diyaariyo islamarkaasna la qorsheeyo
+
+[Chapter 14] Q6 (Q-Sim: 0.43, A-Sim: 0.00)
+  JS Question:  Sheeg seddax qodob oo la tixgeliyo ka hor inta aanan la sameyn tijaabada ?
+  PDF Question: Sheeg seddax qodob oo la tixgeliyo ka hor inta aanan la sameyn tijaabada ?  caddee marka hore ujedada tijaabada  cadee sidoo kale agabka tijaabada.   kuamar ardada in ay dhaqdaan gacmaha kadib marka dhamaystaan tijaabada.
+  JS Answer:    caddee ujeedada, caddee agabka tijaabada, iyo in la dhaqo gacmaha tijaabada ka dib.
+  PDF Answer:   
+
+[Chapter 14] Q9 (Q-Sim: 1.00, A-Sim: 0.18)
+  JS Question:  Sheeg qaar kamid ah agabyada tijaabada ee saynisyahaannadu ay isticmaalaan ?
+  PDF Question: Sheeg qaar kamid ah agabyada tijaabada ee saynisyahaannadu ay isticmaalaan ?
+  JS Answer:    Qalabka qalliinka xayawaanada, dhalooyinka tijaabada, iyo weelasha kiimikada.
+  PDF Answer:   Qalabka qalliinka xayawaanada lagu sameeyo iyo sidoo kale loo isticmaalo in wax lagu jarto Gmail : Mohamedsayidali083@gmail.com                                                                    Tell : +252613915311
