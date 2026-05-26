@@ -177,7 +177,7 @@ const quizData = [
           { q: "Xagee laga helaa tamarta ?", a: "Waxaa laga helaa Cuntada." },
           { q: "Waa maxay sil silada Cuntada ?", a: "Waa xariirka isku tiirsanaanta ah ee Cuntada ka dhexeeya dhirta iyo Xayawaanada." },
           { q: "Maxaa dhacaya hadii silsilada cuntada mid ka mid ah maqanyahay ? Waayo ?", a: "Waxaa dhacaya isku tiirsanaan la'aan ka dhaxeysa dhirta iyo Xayawaanada, waayo midba midka kale wuu ku tiirsan yahay." },
-          { q: "Soo baar wasa loola jeedo shabakada Cuntada ?", a: "Waa xeriirka kadhaxeeya hanaanka tamar socodka ee silsilado badan oo isku xiran." },
+          { q: "Soo baar waxa loola jeedo shabakada Cuntada ?", a: "Waa xeriirka kadhaxeeya hanaanka tamar socodka ee silsilado badan oo isku xiran." },
           { q: "Sheeg dhirta iyo Xayawaanada waxa ay ku kala duwan yihiin ?", a: "Dhirta masocoto oo cuntadeeda ayay sameysataa, halka xayawaanku socdo oo uusan cuntadiisa sameysan karin." },
           { q: "Sharaxaad kooban ka bixi isku tiirnaanshaha dhirta iyo Xayawaanada ?", a: "Dhirta waxay xayawaanka ka heshaa kaarboon labo ogsaydh, xayawaankuna wuxuu dhirta ka helaa oksijiin iyo cunto." },
           { q: "Si kooban usharax waxa dhici karo nolosha Xayawaanada hadii laga jaro dhirta ama ay yaraato ?", a: "Waxaa ku dhici doona hooy la'aan, Cunto la'aan iyo ogsijiin la'aan." },

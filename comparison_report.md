@@ -624,6 +624,9 @@ Loaded 14 chapters from PDF
     - **PDF**: `Waxaa dhacaya isku tiirsanaan la'aan ka dhaxeysa dhirta iyo Xayawaanada Waayo midba midka kale wuu ku tiirsan yahay marka loo fiiriyo dhanka Cuntada iyo hawada.`
 
 ### Question 13:
+  - **[Q MISMATCH]**
+    - **JS**:  `Soo baar waxa loola jeedo shabakada Cuntada ?`
+    - **PDF**: `Soo baar wasa loola jeedo shabakada Cuntada ?`
   - **[A MISMATCH]**
     - **JS**:  `Waa xeriirka kadhaxeeya hanaanka tamar socodka ee silsilado badan oo isku xiran.`
     - **PDF**: `Waa xeriirka kadhaxeeya hanaanka tamar socodka`
